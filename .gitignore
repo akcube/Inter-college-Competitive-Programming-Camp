@@ -1,4 +1,5 @@
 *.log
 *.pyc
 *.txt
+secrets.py
 resolver/cf-resolve-extractor/json_dump/*

@@ -1,0 +1,3 @@
+[submodule "resolver/cf-resolve-extractor"]
+	path = resolver/cf-resolve-extractor
+	url = https://github.com/anurudhp/cf-resolve-extractor

@@ -1,3 +1,6 @@
 [submodule "resolver/cf-resolve-extractor"]
 	path = resolver/cf-resolve-extractor
 	url = https://github.com/anurudhp/cf-resolve-extractor
+[submodule "cfutils"]
+	path = cfutils
+	url = git@github.com:anurudhp/cfutils.git

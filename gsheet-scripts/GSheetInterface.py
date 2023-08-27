@@ -5,9 +5,11 @@ from dataclasses import dataclass
 import cfutils.api as cf
 import pickle
 import os
+import time
 
 
 class FormHeaders(StrEnum):
+    GMAIL = "Email Address"
     TEAM = "Team Name"
     INSTITUTE = "Institute"
     ALTS_CSV = "Comma separated list of accounts used by members to give Gym contests on CF"
@@ -22,7 +24,6 @@ class FormHeaders(StrEnum):
 class Member:
     handle: str
     name: str
-    email: str
 
 
 @dataclass
@@ -31,12 +32,13 @@ class Team:
     institute: str
     members: list[Member]
     alts: list[str]
+    emails: list[str]
 
 
 class GSheetInterface:
     """Class for interacting with Google Sheets and handling teams data."""
 
-    def __init__(self, keyfile: str, spreadsheet_title: str, cache_file: str = None):
+    def __init__(self, keyfile: str, spreadsheet_title: str, cache_file: str = None, handles_cache_file: str = None):
         """
         Initialize the GSheetInterface.
         Args:
@@ -52,11 +54,28 @@ class GSheetInterface:
         self.headers = []
         self.teams = []
         self.error_logs = []
-
-        if cache_file is None or not os.path.exists(cache_file):
+        self.rated_handles = []
+        handles_cache_file = handles_cache_file if handles_cache_file is not None else "cache/rated_handles.json"
+        cache_file = cache_file if cache_file is not None else "cache/cached_sheet_interface.pkl"
+        os.makedirs(os.path.dirname(handles_cache_file), exist_ok=True)
+        self.__cache_rated_handles__(handles_cache_file)
+        if not os.path.exists(cache_file):
+            os.makedirs(os.path.dirname(handles_cache_file), exist_ok=True)
             self.__fetch__(cache_file)
         else:
             self.__load__(cache_file)
+
+    def __cache_rated_handles__(self, cache_file: str):
+        try:
+            self.rated_handles = {user.handle: user for user in
+                                  cf.User_RatedList().get(output_file=cache_file,
+                                                          load_from_file=cache_file)}
+        except cf.CFAPIError as e:
+            print("Couldn't load rated user cache. CF API Error: {error}".format(error=e.__str__()))
+            exit(1)
+        except Exception as e:
+            print("Couldn't load rated user cache. Exception: {error}".format(error=e.__str__()))
+            exit(1)
 
     def construct_team(self, team_dict: dict) -> Team:
         """
@@ -75,28 +94,40 @@ class GSheetInterface:
         if not all(team_dict[field] for field in required_fields):
             log.append("Required arguments not provided")
 
-        if not (len(team_dict[FormHeaders.NAME]) == len(team_dict[FormHeaders.HANDLE]) == len(
-                team_dict[FormHeaders.EMAIL])):
+        if not (len(team_dict[FormHeaders.NAME]) == len(team_dict[FormHeaders.HANDLE])):
             log.append("Mismatch in the number of required fields provided")
 
-        for handle in team_dict[FormHeaders.HANDLE]:
-            try:
-                cf.User_Info(handles=[handle]).get(auth=False)
-            except cf.CFAPIError as e:
-                log.append(e.__str__())
+        alts = [alt.strip() for alt in team_dict[FormHeaders.ALTS_CSV][0].split(",") if alt.strip()] if team_dict[
+            FormHeaders.ALTS_CSV] else []
+        for handle in team_dict[FormHeaders.HANDLE] + alts:
+            # Check cache first
+            if handle not in self.rated_handles:
+                # Ping API now with exponential backoff for failsafe
+                exp_delay = 1
+                while True:
+                    try:
+                        cf.User_Info(handles=[handle]).get(delay=0.5)
+                        break
+                    except cf.CFAPIError as e:
+                        log.append(e.__str__())
+                        break
+                    except Exception as e:
+                        print("Network issue... Retrying. Error: {error}".format(error=e.__str__()))
+                        time.sleep(exp_delay)
+                        exp_delay = min(exp_delay * 2, 30)
+                        continue
 
         if not log:
             members = [Member(handle=team_dict[FormHeaders.HANDLE][i],
-                              name=team_dict[FormHeaders.NAME][i],
-                              email=team_dict[FormHeaders.EMAIL][i])
+                              name=team_dict[FormHeaders.NAME][i])
                        for i in range(len(team_dict[FormHeaders.NAME]))]
             return Team(name=team_dict[FormHeaders.TEAM][0],
                         institute=team_dict[FormHeaders.INSTITUTE][0],
                         members=members,
-                        alts=[alt.strip() for alt in team_dict[FormHeaders.ALTS_CSV][0].split(",")] if team_dict[
-                            FormHeaders.ALTS_CSV] else [])
+                        alts=alts,
+                        emails=team_dict[FormHeaders.EMAIL]+team_dict[FormHeaders.GMAIL])
         else:
-            self.error_logs.append((team_dict[FormHeaders.TEAM][0], log))
+            self.error_logs.append((team_dict[FormHeaders.INSTITUTE][0], team_dict[FormHeaders.TEAM][0], log))
             raise InvalidTeamError("Invalid details given. Errors: {errors}".format(errors=", ".join(log)))
 
     def __fetch__(self, cache_file: str):
@@ -112,14 +143,14 @@ class GSheetInterface:
             for i, column_value in enumerate(row):
                 if column_value.strip():
                     team_dict[self.headers[i]].append(column_value.strip())
-
             try:
                 self.teams.append(self.construct_team(team_dict))
+                print(self.teams[len(self.teams)-1])
             except InvalidTeamError:
                 pass
             print("Errors logged: {num_errors}\n".format(num_errors=len(self.error_logs)))
 
-        if cache_file is not None and os.path.exists(cache_file):
+        if cache_file is not None:
             with open(cache_file, 'wb') as dump_file:
                 pickle.dump(self.teams, dump_file)
                 pickle.dump(self.error_logs, dump_file)

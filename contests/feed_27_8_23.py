@@ -46,6 +46,7 @@ def cli():
     standings_file = "./standings.json"
     feed_file = "./feed.json"
     auth = True
+    asManager = True
     unofficial = False
 
     teams_pickle = "../gsheet-scripts/team_map.pkl"
@@ -74,11 +75,15 @@ def cli():
 
     # get contest data from codeforces
     submissions: list[cf.Submission] = cf.Contest_Status(
-        contestId=contest_id, From=1, count=25000
+        asManager=asManager, contestId=contest_id, From=1, count=25000
     ).get(auth=auth, output_file=status_file, load_from_file=status_file)
 
     standings: cf.Contest_Standings.Result = cf.Contest_Standings(
-        contestId=contest_id, From=1, count=10000, showUnofficial=unofficial
+        asManager=asManager,
+        contestId=contest_id,
+        From=1,
+        count=10000,
+        showUnofficial=unofficial,
     ).get(auth=auth, output_file=standings_file, load_from_file=standings_file)
 
     # generate the event feed

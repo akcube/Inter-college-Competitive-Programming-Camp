@@ -1,10 +1,13 @@
 from GSheetInterface import GSheetInterface
 import cfutils.api as cf
 import os
+import time
+from dotenv import load_dotenv
 
 Sheet = GSheetInterface(keyfile='../secrets/icpc-camp-service-account-creds.json',
                         spreadsheet_title='Inter-College Competitive Programming Camp Registration (Responses)')
 
+load_dotenv()
 cf_handles = set()
 for team in Sheet.teams:
     for member in team.members:
@@ -22,8 +25,18 @@ for num_contest, contest in enumerate(contests):
     if contest.type != cf.ContestType.ICPC or contest.durationSeconds != 18000 or contest.difficulty is None or \
             contest.difficulty < 4:
         continue
-    standings = cf.Contest_Standings(contestId=contest.id, From=1, count=40000, asManager=True, showUnofficial=True)\
-        .get(auth=True)
+    delay = 1
+    while True:
+        try:
+            standings = cf.Contest_Standings(contestId=contest.id, From=1, count=40000, asManager=True,
+                                             showUnofficial=True).get(auth=True)
+            break
+        except Exception as e:
+            print("Network Error: ", e.__str__())
+            time.sleep(delay)
+            delay = min(30, delay*2)
+            continue
+
     valid = True
     for row in standings.rows:
         for member in row.party.members:

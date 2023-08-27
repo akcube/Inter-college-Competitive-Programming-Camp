@@ -45,9 +45,12 @@ def cli():
     status_file = "./status.json"
     standings_file = "./standings.json"
     feed_file = "./feed.json"
-    teams_pickle = "../gsheet-scripts/team_map.pkl"
     auth = True
     unofficial = False
+
+    teams_pickle = "../gsheet-scripts/team_map.pkl"
+    # remove ranklist teams that are NOT in the gsheets pickle.
+    remove_unregistered_teams = True
     # </config>
 
     with open(teams_pickle, "rb") as inf:
@@ -88,10 +91,28 @@ def cli():
             include_out_of_comp=unofficial,
         )
     )
+
+    ranklist = standings.rows
+    if remove_unregistered_teams:
+        # filter out unregistered teams?
+        logging.info("Removing unregistered teams...")
+        team_count_init = len(ranklist)
+        ranklist = [
+            row
+            for row in standings.rows
+            if row.party.teamName is not None
+            and hashTeam(row.party.teamName, [u.handle for u in row.party.members])
+            in team_map
+        ]
+        team_count_final = len(ranklist)
+        logging.info(
+            "Final #teams: %d (initially %d)", team_count_final, team_count_init
+        )
+
     feed = feedGen.generate(
         contest=standings.contest,
         problems=standings.problems,
-        ranklist=standings.rows,
+        ranklist=ranklist,
         submissions=submissions,
     )
 

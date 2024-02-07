@@ -25,6 +25,9 @@ class Member:
     handle: str
     name: str
 
+    def __hash__(self):
+        return hash((self.handle, self.name))
+
 
 @dataclass
 class Team:
@@ -33,6 +36,14 @@ class Team:
     members: list[Member]
     alts: list[str]
     emails: list[str]
+
+    def __eq__(self, other):
+        if isinstance(other, Team):
+            return self.name == other.name and self.institute == other.institute and self.members == other.members and self.alts == other.alts and self.emails == other.emails
+        return False
+
+    def __hash__(self):
+        return hash((self.name, self.institute, tuple(self.members), tuple(self.alts), tuple(self.emails)))
 
 
 class GSheetInterface:

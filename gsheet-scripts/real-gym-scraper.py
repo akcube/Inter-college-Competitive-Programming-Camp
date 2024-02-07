@@ -20,6 +20,7 @@ contests = cf.Contest_List(gym=True).get(output_file=contests_cache, load_from_f
 
 valid_gyms = []
 num_contests = len(contests)
+
 for num_contest, contest in enumerate(contests):
     print(f"Processing {num_contest} / {num_contests}")
     if contest.type != cf.ContestType.ICPC or contest.durationSeconds != 18000 or contest.difficulty is None or \

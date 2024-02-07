@@ -1,0 +1,1 @@
+(104686, '2022-2023 ICPC Central Europe Regional Contest (CERC 22)')

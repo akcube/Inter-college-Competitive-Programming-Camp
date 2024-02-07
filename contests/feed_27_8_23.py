@@ -41,7 +41,7 @@ def cli():
     """
 
     # <config>
-    contest_id = 470038
+    contest_id = 496804
     status_file = "./status.json"
     standings_file = "./standings.json"
     feed_file = "./feed.json"
@@ -51,7 +51,7 @@ def cli():
 
     teams_pickle = "../gsheet-scripts/team_map.pkl"
     # remove ranklist teams that are NOT in the gsheets pickle.
-    remove_unregistered_teams = True
+    remove_unregistered_teams = False
     # </config>
 
     with open(teams_pickle, "rb") as inf:

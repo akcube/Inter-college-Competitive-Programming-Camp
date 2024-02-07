@@ -1,0 +1,2476 @@
+{
+  "status": "OK",
+  "result": {
+    "contest": {
+      "id": 496804,
+      "name": "Week #10",
+      "type": "ICPC",
+      "phase": "FINISHED",
+      "frozen": false,
+      "durationSeconds": 18000,
+      "startTimeSeconds": 1704616500,
+      "relativeTimeSeconds": 18936,
+      "preparedBy": "akcube"
+    },
+    "problems": [
+      {
+        "contestId": 496804,
+        "index": "A",
+        "name": "Bandits",
+        "type": "PROGRAMMING",
+        "tags": []
+      },
+      {
+        "contestId": 496804,
+        "index": "B",
+        "name": "Combination Locks",
+        "type": "PROGRAMMING",
+        "tags": []
+      },
+      {
+        "contestId": 496804,
+        "index": "C",
+        "name": "Constellations",
+        "type": "PROGRAMMING",
+        "tags": []
+      },
+      {
+        "contestId": 496804,
+        "index": "D",
+        "name": "Deforestation",
+        "type": "PROGRAMMING",
+        "tags": []
+      },
+      {
+        "contestId": 496804,
+        "index": "E",
+        "name": "Denormalization",
+        "type": "PROGRAMMING",
+        "tags": []
+      },
+      {
+        "contestId": 496804,
+        "index": "F",
+        "name": "Differences",
+        "type": "PROGRAMMING",
+        "tags": []
+      },
+      {
+        "contestId": 496804,
+        "index": "G",
+        "name": "Greedy Drawers",
+        "type": "PROGRAMMING",
+        "tags": []
+      },
+      {
+        "contestId": 496804,
+        "index": "H",
+        "name": "Insertions",
+        "type": "PROGRAMMING",
+        "tags": []
+      },
+      {
+        "contestId": 496804,
+        "index": "I",
+        "name": "Money Laundering",
+        "type": "PROGRAMMING",
+        "tags": []
+      },
+      {
+        "contestId": 496804,
+        "index": "J",
+        "name": "Mortgage",
+        "type": "PROGRAMMING",
+        "tags": []
+      },
+      {
+        "contestId": 496804,
+        "index": "K",
+        "name": "Skills in Pills",
+        "type": "PROGRAMMING",
+        "tags": []
+      },
+      {
+        "contestId": 496804,
+        "index": "L",
+        "name": "The Game",
+        "type": "PROGRAMMING",
+        "tags": []
+      }
+    ],
+    "rows": [
+      {
+        "party": {
+          "contestId": 496804,
+          "members": [
+            {
+              "handle": "keyurchd_11"
+            },
+            {
+              "handle": "shiven"
+            },
+            {
+              "handle": "GenghizKhan"
+            }
+          ],
+          "participantType": "CONTESTANT",
+          "teamId": 133613,
+          "teamName": "tbd",
+          "ghost": false,
+          "startTimeSeconds": 1704616500
+        },
+        "rank": 1,
+        "points": 4.0,
+        "penalty": 908,
+        "successfulHackCount": 0,
+        "unsuccessfulHackCount": 0,
+        "problemResults": [
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 6,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 17451
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 3,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 6830
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 2,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 16341
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 7998
+          }
+        ]
+      },
+      {
+        "party": {
+          "contestId": 496804,
+          "members": [
+            {
+              "handle": "avi0000"
+            },
+            {
+              "handle": "satyam343"
+            },
+            {
+              "handle": "udhavvarma03"
+            }
+          ],
+          "participantType": "CONTESTANT",
+          "teamId": 118068,
+          "teamName": "-_-",
+          "ghost": false,
+          "startTimeSeconds": 1704616500
+        },
+        "rank": 2,
+        "points": 4.0,
+        "penalty": 1114,
+        "successfulHackCount": 0,
+        "unsuccessfulHackCount": 0,
+        "problemResults": [
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 4,
+            "type": "FINAL"
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 8,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 14947
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 10540
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 17725
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 1,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 12904
+          }
+        ]
+      },
+      {
+        "party": {
+          "contestId": 496804,
+          "members": [
+            {
+              "handle": "kkkk1234"
+            },
+            {
+              "handle": "nandhagk1729"
+            }
+          ],
+          "participantType": "CONTESTANT",
+          "teamId": 133834,
+          "teamName": "The Blasters",
+          "ghost": false,
+          "startTimeSeconds": 1704616500
+        },
+        "rank": 3,
+        "points": 4.0,
+        "penalty": 1118,
+        "successfulHackCount": 0,
+        "unsuccessfulHackCount": 0,
+        "problemResults": [
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 17551
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 15,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 11790
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 2,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 1,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 15271
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 3380
+          }
+        ]
+      },
+      {
+        "party": {
+          "contestId": 496804,
+          "members": [
+            {
+              "handle": "Dominater069"
+            }
+          ],
+          "participantType": "CONTESTANT",
+          "teamId": 134328,
+          "teamName": "DunderMifflin",
+          "ghost": false,
+          "startTimeSeconds": 1704616500
+        },
+        "rank": 4,
+        "points": 3.0,
+        "penalty": 403,
+        "successfulHackCount": 0,
+        "unsuccessfulHackCount": 0,
+        "problemResults": [
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 5,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 3493
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 9902
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 4808
+          }
+        ]
+      },
+      {
+        "party": {
+          "contestId": 496804,
+          "members": [
+            {
+              "handle": "Kev2103"
+            },
+            {
+              "handle": "SanathSalampuria"
+            },
+            {
+              "handle": "431jericho"
+            }
+          ],
+          "participantType": "CONTESTANT",
+          "teamId": 134167,
+          "teamName": "CtrlShiftDefeat",
+          "ghost": false,
+          "startTimeSeconds": 1704616500
+        },
+        "rank": 5,
+        "points": 3.0,
+        "penalty": 564,
+        "successfulHackCount": 0,
+        "unsuccessfulHackCount": 0,
+        "problemResults": [
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 5,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 15433
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 1,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 2783
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 8519
+          }
+        ]
+      },
+      {
+        "party": {
+          "contestId": 496804,
+          "members": [
+            {
+              "handle": "Faizal"
+            },
+            {
+              "handle": "tanaygad"
+            },
+            {
+              "handle": "h2rsh"
+            }
+          ],
+          "participantType": "CONTESTANT",
+          "teamId": 140942,
+          "teamName": "Lazy Three",
+          "ghost": false,
+          "startTimeSeconds": 1704616500
+        },
+        "rank": 6,
+        "points": 3.0,
+        "penalty": 589,
+        "successfulHackCount": 0,
+        "unsuccessfulHackCount": 0,
+        "problemResults": [
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 14342
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 5,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 4807
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 3,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 10215
+          }
+        ]
+      },
+      {
+        "party": {
+          "contestId": 496804,
+          "members": [
+            {
+              "handle": "sidat"
+            }
+          ],
+          "participantType": "CONTESTANT",
+          "teamId": 133897,
+          "teamName": "ghoats",
+          "ghost": false,
+          "startTimeSeconds": 1704616500
+        },
+        "rank": 7,
+        "points": 3.0,
+        "penalty": 629,
+        "successfulHackCount": 0,
+        "unsuccessfulHackCount": 0,
+        "problemResults": [
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 13801
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 5,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 7454
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 10516
+          }
+        ]
+      },
+      {
+        "party": {
+          "contestId": 496804,
+          "members": [
+            {
+              "handle": "JadeReaper"
+            },
+            {
+              "handle": "akcube"
+            },
+            {
+              "handle": "fangahawk"
+            }
+          ],
+          "participantType": "CONTESTANT",
+          "teamId": 82670,
+          "teamName": "fightFight",
+          "ghost": false,
+          "startTimeSeconds": 1704616500
+        },
+        "rank": 8,
+        "points": 3.0,
+        "penalty": 656,
+        "successfulHackCount": 0,
+        "unsuccessfulHackCount": 0,
+        "problemResults": [
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 3,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 15750
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 5,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 6308
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 7798
+          }
+        ]
+      },
+      {
+        "party": {
+          "contestId": 496804,
+          "members": [
+            {
+              "handle": "Rohan217"
+            },
+            {
+              "handle": "_helloLad"
+            },
+            {
+              "handle": "nakshatraexe"
+            }
+          ],
+          "participantType": "CONTESTANT",
+          "teamId": 134865,
+          "teamName": "PerfecTerror",
+          "ghost": false,
+          "startTimeSeconds": 1704616500
+        },
+        "rank": 9,
+        "points": 3.0,
+        "penalty": 714,
+        "successfulHackCount": 0,
+        "unsuccessfulHackCount": 0,
+        "problemResults": [
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 2,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 16930
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 3,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 9728
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 10242
+          }
+        ]
+      },
+      {
+        "party": {
+          "contestId": 496804,
+          "members": [
+            {
+              "handle": "suryacr7"
+            },
+            {
+              "handle": "braman"
+            },
+            {
+              "handle": "Ashutosh.Singh"
+            }
+          ],
+          "participantType": "CONTESTANT",
+          "teamId": 114120,
+          "teamName": "Bitxores",
+          "ghost": false,
+          "startTimeSeconds": 1704616500
+        },
+        "rank": 10,
+        "points": 2.0,
+        "penalty": 628,
+        "successfulHackCount": 0,
+        "unsuccessfulHackCount": 0,
+        "problemResults": [
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 12987
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 12,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 10335
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 1,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 7,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 2,
+            "type": "FINAL"
+          }
+        ]
+      },
+      {
+        "party": {
+          "contestId": 496804,
+          "members": [
+            {
+              "handle": "Snapper_001"
+            }
+          ],
+          "participantType": "CONTESTANT",
+          "teamId": 134761,
+          "teamName": "Phantom Orion",
+          "ghost": false,
+          "startTimeSeconds": 1704616500
+        },
+        "rank": 11,
+        "points": 1.0,
+        "penalty": 39,
+        "successfulHackCount": 0,
+        "unsuccessfulHackCount": 0,
+        "problemResults": [
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 2356
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 1,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          }
+        ]
+      },
+      {
+        "party": {
+          "contestId": 496804,
+          "members": [
+            {
+              "handle": "Ryshi"
+            },
+            {
+              "handle": "yuvrajKharayat"
+            },
+            {
+              "handle": "Sanat"
+            }
+          ],
+          "participantType": "CONTESTANT",
+          "teamId": 145775,
+          "teamName": "BilloBaggeBilliyan",
+          "ghost": false,
+          "startTimeSeconds": 1704616500
+        },
+        "rank": 12,
+        "points": 1.0,
+        "penalty": 140,
+        "successfulHackCount": 0,
+        "unsuccessfulHackCount": 0,
+        "problemResults": [
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 4,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 8434
+          }
+        ]
+      },
+      {
+        "party": {
+          "contestId": 496804,
+          "members": [
+            {
+              "handle": "infinitix"
+            },
+            {
+              "handle": "ds1410"
+            }
+          ],
+          "participantType": "CONTESTANT",
+          "teamId": 135254,
+          "teamName": "napTime",
+          "ghost": false,
+          "startTimeSeconds": 1704616500
+        },
+        "rank": 13,
+        "points": 1.0,
+        "penalty": 151,
+        "successfulHackCount": 0,
+        "unsuccessfulHackCount": 0,
+        "problemResults": [
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 9,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 2,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 6667
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 1,
+            "type": "FINAL"
+          }
+        ]
+      },
+      {
+        "party": {
+          "contestId": 496804,
+          "members": [
+            {
+              "handle": "gakshat468"
+            },
+            {
+              "handle": "sg0071729"
+            },
+            {
+              "handle": "21cs01033"
+            }
+          ],
+          "participantType": "CONTESTANT",
+          "teamId": 144153,
+          "teamName": "ThreeMusketeers",
+          "ghost": false,
+          "startTimeSeconds": 1704616500
+        },
+        "rank": 14,
+        "points": 1.0,
+        "penalty": 153,
+        "successfulHackCount": 0,
+        "unsuccessfulHackCount": 0,
+        "problemResults": [
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 2,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 5,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 4,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 1,
+            "type": "FINAL"
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 9184
+          }
+        ]
+      },
+      {
+        "party": {
+          "contestId": 496804,
+          "members": [
+            {
+              "handle": "roshanVerma"
+            },
+            {
+              "handle": "jat.arc2004"
+            },
+            {
+              "handle": "Edward4762"
+            }
+          ],
+          "participantType": "CONTESTANT",
+          "teamId": 125423,
+          "teamName": "TRINITY",
+          "ghost": false,
+          "startTimeSeconds": 1704616500
+        },
+        "rank": 15,
+        "points": 1.0,
+        "penalty": 189,
+        "successfulHackCount": 0,
+        "unsuccessfulHackCount": 0,
+        "problemResults": [
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 3,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 1,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 10147
+          }
+        ]
+      },
+      {
+        "party": {
+          "contestId": 496804,
+          "members": [
+            {
+              "handle": "yoyo0869"
+            },
+            {
+              "handle": "shanurocky"
+            },
+            {
+              "handle": "Lucifer_30"
+            }
+          ],
+          "participantType": "CONTESTANT",
+          "teamId": 134019,
+          "teamName": "Gulabi Kabootar",
+          "ghost": false,
+          "startTimeSeconds": 1704616500
+        },
+        "rank": 16,
+        "points": 1.0,
+        "penalty": 406,
+        "successfulHackCount": 0,
+        "unsuccessfulHackCount": 0,
+        "problemResults": [
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 1.0,
+            "rejectedAttemptCount": 10,
+            "type": "FINAL",
+            "bestSubmissionTimeSeconds": 12391
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 1,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          }
+        ]
+      },
+      {
+        "party": {
+          "contestId": 496804,
+          "members": [
+            {
+              "handle": "SAHIL_IIITH"
+            },
+            {
+              "handle": "Tanishq_1"
+            },
+            {
+              "handle": "prietukani"
+            }
+          ],
+          "participantType": "CONTESTANT",
+          "teamId": 128424,
+          "teamName": "TLE_on_69",
+          "ghost": false,
+          "startTimeSeconds": 1704616500
+        },
+        "rank": 17,
+        "points": 0.0,
+        "penalty": 0,
+        "successfulHackCount": 0,
+        "unsuccessfulHackCount": 0,
+        "problemResults": [
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 5,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          }
+        ]
+      },
+      {
+        "party": {
+          "contestId": 496804,
+          "members": [
+            {
+              "handle": "j_ubhi"
+            },
+            {
+              "handle": "Shinchan_Noharaa"
+            }
+          ],
+          "participantType": "CONTESTANT",
+          "teamId": 134811,
+          "teamName": "epsilonNaught",
+          "ghost": false,
+          "startTimeSeconds": 1704616500
+        },
+        "rank": 17,
+        "points": 0.0,
+        "penalty": 0,
+        "successfulHackCount": 0,
+        "unsuccessfulHackCount": 0,
+        "problemResults": [
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 8,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 6,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          }
+        ]
+      },
+      {
+        "party": {
+          "contestId": 496804,
+          "members": [
+            {
+              "handle": "atog_1905"
+            },
+            {
+              "handle": "rohitsomani"
+            },
+            {
+              "handle": "Sunij225"
+            }
+          ],
+          "participantType": "CONTESTANT",
+          "teamId": 144714,
+          "teamName": "LetsRun",
+          "ghost": false,
+          "startTimeSeconds": 1704616500
+        },
+        "rank": 17,
+        "points": 0.0,
+        "penalty": 0,
+        "successfulHackCount": 0,
+        "unsuccessfulHackCount": 0,
+        "problemResults": [
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 8,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 2,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 1,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          }
+        ]
+      },
+      {
+        "party": {
+          "contestId": 496804,
+          "members": [
+            {
+              "handle": "Ar7e9"
+            },
+            {
+              "handle": "CodeKracker"
+            },
+            {
+              "handle": "mshandilya"
+            }
+          ],
+          "participantType": "CONTESTANT",
+          "teamId": 138037,
+          "teamName": "maniACs",
+          "ghost": false,
+          "startTimeSeconds": 1704616500
+        },
+        "rank": 17,
+        "points": 0.0,
+        "penalty": 0,
+        "successfulHackCount": 0,
+        "unsuccessfulHackCount": 0,
+        "problemResults": [
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 1,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          }
+        ]
+      },
+      {
+        "party": {
+          "contestId": 496804,
+          "members": [
+            {
+              "handle": "_Code.champ"
+            }
+          ],
+          "participantType": "CONTESTANT",
+          "teamId": 134502,
+          "teamName": "Code Wizards",
+          "ghost": false,
+          "startTimeSeconds": 1704616500
+        },
+        "rank": 17,
+        "points": 0.0,
+        "penalty": 0,
+        "successfulHackCount": 0,
+        "unsuccessfulHackCount": 0,
+        "problemResults": [
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 3,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          }
+        ]
+      },
+      {
+        "party": {
+          "contestId": 496804,
+          "members": [
+            {
+              "handle": "sparshmittal2311"
+            },
+            {
+              "handle": "Rashoo"
+            },
+            {
+              "handle": "luciferyrsdev"
+            }
+          ],
+          "participantType": "CONTESTANT",
+          "teamId": 114025,
+          "teamName": "pheonix_squad",
+          "ghost": false,
+          "startTimeSeconds": 1704616500
+        },
+        "rank": 17,
+        "points": 0.0,
+        "penalty": 0,
+        "successfulHackCount": 0,
+        "unsuccessfulHackCount": 0,
+        "problemResults": [
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 4,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 1,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 2,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          }
+        ]
+      },
+      {
+        "party": {
+          "contestId": 496804,
+          "members": [
+            {
+              "handle": "downfall"
+            },
+            {
+              "handle": "AjiteshSIngh_19"
+            },
+            {
+              "handle": "covert_insurgent"
+            }
+          ],
+          "participantType": "CONTESTANT",
+          "teamId": 136755,
+          "teamName": "MelonSky",
+          "ghost": false,
+          "startTimeSeconds": 1704616500
+        },
+        "rank": 17,
+        "points": 0.0,
+        "penalty": 0,
+        "successfulHackCount": 0,
+        "unsuccessfulHackCount": 0,
+        "problemResults": [
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 5,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          }
+        ]
+      },
+      {
+        "party": {
+          "contestId": 496804,
+          "members": [
+            {
+              "handle": "Newtech66"
+            }
+          ],
+          "participantType": "CONTESTANT",
+          "teamId": 95646,
+          "teamName": "Flashpoint",
+          "ghost": false,
+          "startTimeSeconds": 1704616500
+        },
+        "rank": 17,
+        "points": 0.0,
+        "penalty": 0,
+        "successfulHackCount": 0,
+        "unsuccessfulHackCount": 0,
+        "problemResults": [
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 1,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          }
+        ]
+      },
+      {
+        "party": {
+          "contestId": 496804,
+          "members": [
+            {
+              "handle": "nano_nish"
+            },
+            {
+              "handle": "parthtotalfun"
+            },
+            {
+              "handle": "Numinous"
+            }
+          ],
+          "participantType": "CONTESTANT",
+          "teamId": 115397,
+          "teamName": "The Owls",
+          "ghost": false,
+          "startTimeSeconds": 1704616500
+        },
+        "rank": 17,
+        "points": 0.0,
+        "penalty": 0,
+        "successfulHackCount": 0,
+        "unsuccessfulHackCount": 0,
+        "problemResults": [
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 2,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 5,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          }
+        ]
+      },
+      {
+        "party": {
+          "contestId": 496804,
+          "members": [
+            {
+              "handle": "Ridham."
+            },
+            {
+              "handle": "ABDAZE"
+            },
+            {
+              "handle": "friedel"
+            }
+          ],
+          "participantType": "CONTESTANT",
+          "teamId": 142724,
+          "teamName": "boloJubaanKesari",
+          "ghost": false,
+          "startTimeSeconds": 1704616500
+        },
+        "rank": 17,
+        "points": 0.0,
+        "penalty": 0,
+        "successfulHackCount": 0,
+        "unsuccessfulHackCount": 0,
+        "problemResults": [
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 1,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 4,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          }
+        ]
+      },
+      {
+        "party": {
+          "contestId": 496804,
+          "members": [
+            {
+              "handle": "samruddhi.deshmukh.ece22"
+            },
+            {
+              "handle": "voidXscorpion"
+            }
+          ],
+          "participantType": "CONTESTANT",
+          "teamId": 134754,
+          "teamName": "lachimolala",
+          "ghost": false,
+          "startTimeSeconds": 1704616500
+        },
+        "rank": 17,
+        "points": 0.0,
+        "penalty": 0,
+        "successfulHackCount": 0,
+        "unsuccessfulHackCount": 0,
+        "problemResults": [
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 1,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 2,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          },
+          {
+            "points": 0.0,
+            "rejectedAttemptCount": 0,
+            "type": "FINAL"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,3682 @@
+QUALIFIED TEAMS
+Team: is it rated?
+Institute: IIT - Delhi
+Members: JagguBandar, WAtoAC2001, Beelzebub_blue
+Rating: 2683.4374151237234
+
+Team: skillIssu
+Institute: IIT - Delhi
+Members: MridulAhi, ghoul932, ElDiablo
+Rating: 2587.351162991147
+
+Team: -_-
+Institute: IIT - Kanpur
+Members: udhavvarma03, satyam343, avi0000
+Rating: 2334.3614403904467
+
+Team: dne
+Institute: IIT - BHU
+Members: sv1shan, koderkushy, piyush_pransukhka
+Rating: 2329.6490063120295
+
+Team: Siruseri Armed Forces
+Institute: IIIT - Hyderabad
+Members: sumit_kk10, aryan12, ha___il
+Rating: 2302.8157817888787
+
+Team: tbd
+Institute: IIIT - Hyderabad
+Members: shiven, keyurchd_11, GenghizKhan
+Rating: 2258.514440599356
+
+Team: fightFight
+Institute: IIIT - Hyderabad
+Members: akcube, fangahawk, JadeReaper
+Rating: 2104.1704015698247
+
+Team: CODE-19 POSITIVE
+Institute: IIT - BHU
+Members: 1_2_3_4_5_9, absolute-mess, shubham.kr23
+Rating: 2092.9626907678926
+
+Team: cpk14
+Institute: IIT - BBS
+Members: gakshat468, sg0071729, amit_pandit_15
+Rating: 2089.533178878614
+
+Team: second_by_choice
+Institute: IIT - Delhi
+Members: Azm1t, etherinmatic, MihirK
+Rating: 1940.6275333302044
+
+Team: BilloBaggeBilliyan
+Institute: IIT - Kanpur
+Members: yuvrajKharayat, Sanat, Ryshi
+Rating: 1845.9486380162016
+
+Team: Cats on Trees
+Institute: IIIT - Delhi
+Members: mohit_jx64, kunalsrv20, shiv_codegen
+Rating: 1746.7764193998714
+
+Team: Bitxores
+Institute: IIT - Patna
+Members: braman, Ashutosh.Singh, suryacr7
+Rating: 1716.747901446849
+
+Team: aloo bhujiya
+Institute: Unofficial (Graduates)
+Members: islingr, tamajitbuba, magga
+Rating: 1689.3087319847903
+
+Team: long long int
+Institute: IIIT - Hyderabad
+Members: Darkshadow123624, Jerseys, BananaPants87
+Rating: 1681.2088496670924
+
+Team: ハジメマシテ
+Institute: IIT - KGP
+Members: asaecs2, Aryan_XY, Rimuru.123
+Rating: 1637.3412246652372
+
+Team: Flaming Potatoes
+Institute: BITS Pilani
+Members: SiRBruce, CaptainUknown, Lakshit_Sethi
+Rating: 1616.5011440106443
+
+Team: facelessmenlite
+Institute: IIT - Kanpur
+Members: windreaper, page_fault, Sastatourist2004
+Rating: 1593.838788786737
+
+Team: Yorozuya Forever
+Institute: IIT - Madras
+Members: Blitztage, Nisanth, Teja-Smart
+Rating: 1558.7483268662486
+
+Team: bitmASKers
+Institute: IIT - Roorkee
+Members: shn271, coder_supreme, Dragokj03
+Rating: 1548.5846398617482
+
+Team: PerfecTerror
+Institute: IIT - BHU
+Members: _helloLad, Rohan217, nakshatraexe
+Rating: 1538.5678424212267
+
+Team: OOA
+Institute: IIT - BHU
+Members: chitransh_itbhu_6102003, Atekichan, MadRat_0
+Rating: 1498.6034134101676
+
+Team: Achievers
+Institute: IIT - KGP
+Members: majhiswadhin64, soukhin, Abhirup2002
+Rating: 1451.4477647240842
+
+Team: OverShadow
+Institute: IIT - BHU
+Members: Krypto_Ray, sloppy_coder
+Rating: 1403.7413116178461
+
+Team: CtrlShiftDefeat
+Institute: IIT - Kanpur
+Members: Kev2103, SanathSalampuria, 431jericho
+Rating: 1269.8369628018183
+
+Team: LogicLegends
+Institute: IIIT - Delhi
+Members: Vartika_foo, Sahilence, raunak21484
+Rating: 1198.5970053579467
+
+Team: 200IQ
+Institute: IIT - Patna
+Members: SundryVictory, Pew_Pew., achhadahappy
+Rating: 1165.7525482189576
+
+Team: Newbies
+Institute: IIT - Roorkee
+Members: Ridonkulous, AIphaZero, nkelkins
+Rating: 1087.5713630817338
+
+Team: The Blasters
+Institute: IIT - Madras
+Members: nandhagk1729, kkkk1234
+Rating: 1052.9786657930213
+
+Team: maniAC
+Institute: IIIT - Hyderabad
+Members: ppt1524, kevaljain, SilverTongue1729
+Rating: 1035.2483314784247
+
+Team: PROgrammers
+Institute: IIT - KGP
+Members: redmac, harshith_04, Mayukha_Marla_
+Rating: 993.4820541418287
+
+Team: anjaane
+Institute: IIT - Patna
+Members: Ace_42, Amaterasu_720, FirSt_BlooD.
+Rating: 992.6667924925026
+
+Team: pheonix_squad
+Institute: IIT - Guwahati
+Members: sparshmittal2311, luciferyrsdev, Rashoo
+Rating: 986.8799672929307
+
+Team: CodeSnatcher
+Institute: IIT - Delhi
+Members: PROELECTRO444, sahilkumar_1, targeter2004
+Rating: 984.8645490830925
+
+Team: Jugaad Logic
+Institute: IIIT - Hyderabad
+Members: AS23, Harry_03, tanaygad
+Rating: 937.436665627568
+
+Team: bhaiyaNahiSir
+Institute: IIT - Delhi
+Members: errorassassin, CodeCracker1609
+Rating: 930.7753586739069
+
+Team: Lratios
+Institute: LNMIIT
+Members: itsHarshJ, AloneMusk, WORTH
+Rating: 929.8631190331545
+
+Team: Flashpoint
+Institute: IIT - KGP
+Members: Gr47, anubhavdhar, Newtech66
+Rating: 857.4860406425212
+
+Team: avgIITMteam
+Institute: IIT - Madras
+Members: NishantS, Omegaconstant, arkbalakumar
+Rating: 833.1601354601847
+
+Team: TRINITY
+Institute: IIT - Patna
+Members: Edward4762, jat.arc2004, roshanVerma
+Rating: 782.7059562996255
+
+Team: Endurance
+Institute: IIT - Patna
+Members: dark___, aryankesharwani142004, akhtarkamran2004
+Rating: 729.3093856202632
+
+Team: BitByters
+Institute: IIT - Kanpur
+Members: Harshit1380, Aman00001, fallout3691
+Rating: 727.3085807010378
+
+Team: g10 mein discuss krlenge
+Institute: IIT - BHU
+Members: kratosishere, 16cm, vardan_09
+Rating: 714.6250024203024
+
+Team: IdlenessLimitExceeded
+Institute: IIT - BHU
+Members: Abhi8803, fireheart17, swapash
+Rating: 713.8140628366087
+
+Team: Oreo
+Institute: IIT - Madras
+Members: jatin.v.kumar.1, kingprawn5000, mithjain059
+Rating: 709.2989330591045
+
+Team: Expecto_Patronum
+Institute: IIT - Guwahati
+Members: Shri_874, Shaic, addy_14
+Rating: 698.395930923695
+
+Team: TLE_on_69
+Institute: IIIT - Hyderabad
+Members: Devansh29, SAHIL_IIITH, TanishqA05
+Rating: 687.6779285069804
+
+Team: Algoriders
+Institute: IIT - Patna
+Members: hitinbajaj77, Gaurav_singhiitp, Ronak1808
+Rating: 674.839701352273
+
+Team: Bhola Chatura
+Institute: IIT - Patna
+Members: darishkhan, helikopterr, Unknown_SMD
+Rating: 663.7005356428737
+
+Team: Homo_CPians
+Institute: IIT - Madras
+Members: Shanmukh-_-estrella, Kadamrohan0215, charanmelam
+Rating: 659.5680547727078
+
+Team: dotcpp
+Institute: IIT - BHU
+Members: bhav_khurana, nerdykafka, Krishna_2208
+Rating: 643.2509088165399
+
+Team: AMNK
+Institute: IIT - Roorkee
+Members: am_25, nikks1234
+Rating: 641.8092066699004
+
+Team: AndaMaggi
+Institute: IIT - Patna
+Members: Coder_prdp, k_nitya06, Nishant_K
+Rating: 621.8639242732598
+
+Team: Systumm Boys
+Institute: IIT - KGP
+Members: Amit7777, umang_singla, ssd_newbie
+Rating: 581.3935355863956
+
+Team: Idk_i_just_came_here
+Institute: IIT - Madras
+Members: Ayush74, AntiHero479, Aridaman8
+Rating: 578.2146162084589
+
+Team: ecmana
+Institute: IIT - KGP
+Members: devansh_ladha, tanishq2, yyash8000
+Rating: 575.708006256119
+
+Team: Zandacrus
+Institute: IIT - Roorkee
+Members: mohitejaikumar, jeeva_24, bitthal04
+Rating: 562.3942517511722
+
+Team: Soup
+Institute: IIT - Madras
+Members: Kolwdfurr_Rad, sussy__baka, sumanth_Bobby
+Rating: 558.2387611482163
+
+Team: dark_beach
+Institute: IIT - Guwahati
+Members: xeedxendrome206, thefakepranav
+Rating: 556.7294539600771
+
+Team: Bamboos_!
+Institute: IIIT - Hyderabad
+Members: ashh18, coderspecial3131, queenofdisaster
+Rating: 555.6264771007742
+
+Team: IñviNcibLe
+Institute: IIT - Roorkee
+Members: sarvesh_87, shubham_kv_topper, Coding_lord43
+Rating: 550.8515756567227
+
+Team: Pupils
+Institute: IIT - Kanpur
+Members: sharvil.athaley, ssiddhant, india0909
+Rating: 544.0640899574181
+
+Team: Phantom Orion
+Institute: IIT - BHU
+Members: Snapper_001, narottam.viswas, _._adhokshaja_._
+Rating: 533.423503159173
+
+Team: e^iπ=1
+Institute: IIIT - Hyderabad
+Members: shreyas333, Sukin272, druhan_shah
+Rating: 532.413426427705
+
+Team: AlgorithmAvengers
+Institute: IIT - Patna
+Members: khushisingh4218, Kalpit1018, newvaibhav
+Rating: 509.65642205653387
+
+Team: BinaryBrains
+Institute: IIT - BHU
+Members: PEKKA3458, power_verse, himanshu1409
+Rating: 492.2206744881197
+
+Team: cin_cout
+Institute: IIT - Guwahati
+Members: Aditya_Kumar_2003, Abhi6645, anu30bhab
+Rating: 431.07484484568914
+
+Team: BAAS
+Institute: IIIT - Delhi
+Members: _baljyot, ankurbohra, SauravTheChamp
+Rating: 421.0085453613828
+
+Team: Kaccha_badam
+Institute: IIT - Delhi
+Members: mericodiing, sanketpatil, pattagobhi
+Rating: 419.59875814587804
+
+Team: Error_404
+Institute: IIT - KGP
+Members: __YOGI__, pbhaskar, akshatayushmodi
+Rating: 410.4919575358915
+
+Team: chai patti
+Institute: IIT - Guwahati
+Members: bOrax10, ArtValor, MOHD_FAIZ
+Rating: 381.4064074283166
+
+Team: Bug Warriors
+Institute: IIIT - Hyderabad
+Members: Divyaraj_17, Neel_174, Ansh_Shah_
+Rating: 368.8965457798427
+
+Team: BitBitches
+Institute: IIT - Delhi
+Members: PHoe, vaishali11, loki3435
+Rating: 358.627242266536
+
+Team: Gulabi Kabootar
+Institute: IIT - Patna
+Members: yoyo0869, sid15_30, shanurocky
+Rating: 344.3497518953701
+
+Team: Team coders
+Institute: IIT - Kanpur
+Members: poojal, pallavgoyal136, pragati_iitk
+Rating: 312.91099678577984
+
+Team: TimeLimitExtended
+Institute: IIT - Madras
+Members: amizhthni, bluejay06, Juswanth_T
+Rating: 298.55278359087265
+
+Team: Sanchit warriors
+Institute: IIIT - Hyderabad
+Members: harshit16, Karan_14, Sanchit27
+Rating: 274.9597497517579
+
+Team: ChilliPotato
+Institute: IIT - Guwahati
+Members: nvkoushik, quad_wipe
+Rating: 265.2924396735208
+
+Team: Wah Sehzade
+Institute: IIT - Kanpur
+Members: dhruv338, musaf1r, Byee_bobu
+Rating: 253.47369679463222
+
+Team: Alt+F4
+Institute: IIT - Patna
+Members: ayeshahaha, shiva._, Himanshi_Mangla
+Rating: 218.9804362188411
+
+Team: dazai
+Institute: IIIT - Hyderabad
+Members: Blahh, SaumyaBalina, paridhi1612
+Rating: 208.0848664527622
+
+Team: Ciphers
+Institute: IIT - Patna
+Members: Mayank.kr, swathi.m6879, ppsp
+Rating: 193.35685668470623
+
+Team: Team Deep
+Institute: IIT - Madras
+Members: Gojo_Satoru69, cs22b042, Abhilash_Khatod
+Rating: 190.9325887206329
+
+Team: CyberPunks
+Institute: IIT - Madras
+Members: Binarycoder99, code_sudheer, sasanking
+Rating: 179.7337544947394
+
+Team: CP_DRAGO
+Institute: IIT - Madras
+Members: deepanjhan183, aniketiitm, Ganesh8790
+Rating: 178.9350582164729
+
+Team: Spark
+Institute: IIT - BHU
+Members: Vraj123, Tethet, Aryan0504
+Rating: 178.0030309448285
+
+Team: Papplu_44
+Institute: IIT - Kanpur
+Members: hectorxrdp, akmeena22, Sohamhanmane57
+Rating: 158.67870641499354
+
+Team: Binary Wizards
+Institute: IIT - KGP
+Members: AdityaRaj_IITKGP, Hrishi_chef
+Rating: 150.05167727978042
+
+Team: Happy Happy
+Institute: IIIT - Hyderabad
+Members: Kalia_H, Manan.Garg21, kay.dee
+Rating: 121.10927366252349
+
+Team: lachimolala
+Institute: IIT - BHU
+Members: voidXscorpion, samruddhi.deshmukh.ece22
+Rating: 88.32352923589416
+
+Team: CodeWiz898
+Institute: IIT - BHU
+Members: hemant_ayuj, VatsLakshya, Geethesh
+Rating: 53.34673887378226
+
+Team: Alphacoders
+Institute: IIT - Kanpur
+Members: its_shrasti, atog_1905, MayankPattnaik
+Rating: 34.380022310537136
+
+DISQUALIFIED TEAMS
+Team: DunderMifflin
+Institute: IIT - KGP
+Members: Dominater069, rishit3234, rishabh_agarwal
+Rating: 2683.7733644859813
+
+Team: Three of a Kind
+Institute: Unofficial (Graduates)
+Members: Kira_1234, SaiAryan, KDVinit
+Rating: 2644.143248697328
+
+Team: Team 7
+Institute: IIT - Patna
+Members: TimeWarp101, DC17, AwakeAnay
+Rating: 2217.8841538043266
+
+Team: Maa ka aashirwad
+Institute: IIT - Roorkee
+Members: magnesium12, B0NGCL0UD, Darkse1d
+Rating: 2216.3551401869163
+
+Team: Buriburizaemon
+Institute: IIT - Roorkee
+Members: BlackMamba, Gaze_n_miss, binary_bae
+Rating: 1968.3817553839904
+
+Team: ogbihta
+Institute: IIT - Patna
+Members: ILovePD, Martinpatel, quietpan
+Rating: 1839.599035272837
+
+Team: OnTheSpot
+Institute: IIT - BHU
+Members: kingmessi, itz_archit
+Rating: 1806.6669266237586
+
+Team: Serious
+Institute: IIT - Madras
+Members: Bharath_1729, Harsha221B, bhukyatharun216
+Rating: 1797.8971962616822
+
+Team: Art of Problem Avoiding
+Institute: IIT - Roorkee
+Members: parThanos, aaryaag03, aryaad
+Rating: 1727.803738317757
+
+Team: cns_lena_chahiye_tha
+Institute: IIT - Guwahati
+Members: vikram108, dhruvsomani, ParadigmShift
+Rating: 1725.6113414377064
+
+Team: Flaming Tomatoes
+Institute: IIT - Madras
+Members: KaranBardhan, Yuva_Tej, Harsha221B
+Rating: 1639.7098673052312
+
+Team: bubble_wrap
+Institute: IIIT - Hyderabad
+Members: lokesh_venkatachalam, TheRaja, mibuwolf
+Rating: 1602.213345392423
+
+Team: Bhagwan_Bharose
+Institute: IIT - KGP
+Members: hackerbhaiya, surya535, himanshukrabc
+Rating: 1570.1103190852525
+
+Team: ANS
+Institute: IIT - Roorkee
+Members: _abhay_og, shinjan99, ninQ1703
+Rating: 1523.0307076101467
+
+Team: noob_kgpians
+Institute: IIT - KGP
+Members: BhuvanR, Spartanlord, lakshmankattunga
+Rating: 1484.976273716762
+
+Team: Fuck Logic
+Institute: IIIT - Hyderabad
+Members: amul_agrawal
+Rating: 1451.6129032258066
+
+Team: Sampal
+Institute: IIT - Guwahati
+Members: dipit_patowari, Tatakae__, -_-__-_-
+Rating: 1422.3867116940232
+
+Team: TrifectaCoders
+Institute: IIT - BBS
+Members: tushar_joshi, 21cs01033, Sky_Warrior
+Rating: 1421.4975737184427
+
+Team: ABC
+Institute: IIT - Madras
+Members: bananasaur, chahel, haricharan_b
+Rating: 1419.0765734958993
+
+Team: Bit Lords
+Institute: IIT - BHU
+Members: AK_173, kinshukbansal1574, uewbv
+Rating: 1413.8856501785676
+
+Team: Cp karoge?
+Institute: IIT - Roorkee
+Members: shorya1835, AKSLEGION781126, fooker
+Rating: 1372.8480584016618
+
+Team: IDD
+Institute: IIT - BHU
+Members: crzy22, hakaishin_3181, K_queries
+Rating: 1365.4205607476636
+
+Team: Har_Har_Mahadev
+Institute: IIT - KGP
+Members: Abhijeet_13, shivansh1102, innocent_SINNER
+Rating: 1359.8130841121495
+
+Team: BitManipulators
+Institute: IIT - Kanpur
+Members: recurecurring, Amanydv0081, Ansh777
+Rating: 1357.0093457943924
+
+Team: phodu
+Institute: IIT - Kanpur
+Members: shoryak, pranabpandey
+Rating: 1351.4018691588785
+
+Team: WeHatePatch7.04
+Institute: IIT - Patna
+Members: BlueBerryBush, shubhamcypher123, Codurr
+Rating: 1340.1869158878505
+
+Team: spoodergang
+Institute: IIIT - Hyderabad
+Members: AbhijnanVegi, rp_nator, Dhruv555
+Rating: 1334.5794392523364
+
+Team: AnythingIsFine
+Institute: IIT - Kanpur
+Members: SamyakSinghania, AryRDW, tushaar9876
+Rating: 1329.3504970503311
+
+Team: SUS
+Institute: BITS Pilani
+Members: sidlad, Sidd438, Conan_Edogawa
+Rating: 1328.9719626168223
+
+Team: udaiXzanskar
+Institute: IIT - Delhi
+Members: Somaditya02, VaibhavAg31, Akarsh
+Rating: 1326.1682242990655
+
+Team: tatakaeTatakae
+Institute: IIIT - Hyderabad
+Members: srikar03, sam_28, sambasai
+Rating: 1317.1555632953439
+
+Team: fenwickThree
+Institute: IIT - Guwahati
+Members: letsintegreat, guptaaditya30121, nitya9714
+Rating: 1303.6644318327428
+
+Team: NHK
+Institute: IIT - Roorkee
+Members: Rzbzz, Isagi_, manas_kukkar
+Rating: 1300.9345794392523
+
+Team: RAY
+Institute: IIT - Delhi
+Members: atifanwer, sleekassassin, rishijain55
+Rating: 1295.6878527523252
+
+Team: segment_three
+Institute: IIT - Guwahati
+Members: _Ayush_V, ayush__kr, soumyadeep_paul
+Rating: 1292.5233644859813
+
+Team: Billo Bagge Billeyan
+Institute: IIT - Delhi
+Members: MaLsI_rAmO, manasgoyal2807
+Rating: 1292.316949630205
+
+Team: Masala_maggi
+Institute: IIT - Guwahati
+Members: Tanmay7404, Red_luigi, m.arush
+Rating: 1270.0934579439254
+
+Team: 2CS + 1MT
+Institute: IIT - Delhi
+Members: grogu_, Awesomeness._., Agile_Eagle
+Rating: 1267.2897196261683
+
+Team: Binary Bombers
+Institute: IIT - Delhi
+Members: Surver, Rony_21, Kohinoor
+Rating: 1265.4959300572807
+
+Team: Makki Di Roti
+Institute: IIT - Patna
+Members: ._Error_Terror, Tejas_Budhwal, Ishan001
+Rating: 1253.2710280373833
+
+Team: Variables
+Institute: IIT - Kanpur
+Members: struggler_op, YC_21, combination
+Rating: 1247.6635514018692
+
+Team: Bakchodi_Brigade
+Institute: IIT - BHU
+Members: jd_samurai, Neerav03, Shivendra0510
+Rating: 1242.0560747663553
+
+Team: Depth First Detonators
+Institute: IIT - Patna
+Members: BlazingDragon, SolarStar, Isothermal_
+Rating: 1238.0811187112295
+
+Team: DontKnow
+Institute: IIT - BHU
+Members: _whoAreYou, evermore, Phoenixx01
+Rating: 1233.6448598130842
+
+Team: Not_yet_decided
+Institute: IIT - Roorkee
+Members: ERROR_1609, ShinChan-_-, Mradul2004
+Rating: 1229.013854930725
+
+Team: Siuuu
+Institute: IIT - Patna
+Members: shaanjijoe2, Harmansaluja02
+Rating: 1214.018691588785
+
+Team: SevTamatar
+Institute: IIT - Patna
+Members: melencholic_mice, honey_1315, Shubh_Kr07
+Rating: 1211.214953271028
+
+Team: Runtime Terrors
+Institute: IIT - Guwahati
+Members: SoumyaSavarn, yashu_doshi, surankande23
+Rating: 1208.411214953271
+
+Team: PenDiPudi
+Institute: IIT - Roorkee
+Members: thirdcook, a_garg, codeexpander
+Rating: 1204.1801594315816
+
+Team: ghoats
+Institute: BITS Pilani
+Members: Quick-One, lycogno, SiddhantAttavar
+Rating: 1200.0343135704122
+
+Team: Mission208
+Institute: IIT - Kanpur
+Members: dhruvgarg21, drax12, rg_iitk
+Rating: 1197.196261682243
+
+Team: SlackOverflow
+Institute: IIT - Delhi
+Members: Phantom777, adityaprakash12, T_Bone
+Rating: 1163.5514018691588
+
+Team: UvvU
+Institute: IIT - Delhi
+Members: vidushi0204, utk_2809, KFPanda
+Rating: 1157.943925233645
+
+Team: Humidity
+Institute: IIT - Madras
+Members: Schrody, code.bee
+Rating: 1152.3364485981308
+
+Team: Final Iteration
+Institute: IIT - Roorkee
+Members: Gilligan, Dinocoder
+Rating: 1143.9252336448599
+
+Team: brainLimitExceeded
+Institute: IIT - Guwahati
+Members: kshitijmaurya, noobcoder1106, tanishasalvi
+Rating: 1141.1214953271028
+
+Team: BinaryBandits
+Institute: IIT - BHU
+Members: tobiasblack, STan21, starring_gtm
+Rating: 1135.5140186915887
+
+Team: RTX
+Institute: IIT - Roorkee
+Members: Sosuke_Aizen, kush_grover
+Rating: 1127.1028037383178
+
+Team: Multiply and Surrender
+Institute: IIT - Guwahati
+Members: _shrey_hehe_, shobyy, shashwatskr2019
+Rating: 1122.9393577401447
+
+Team: Crack overflow
+Institute: IIT - Roorkee
+Members: Ninthfyre, cubegenics, Tommy_code1
+Rating: 1116.6431279644844
+
+Team: mishti doi
+Institute: IIT - BHU
+Members: Abraxos, pienotpi, pro_per
+Rating: 1113.0434782608695
+
+Team: CodeAGY
+Institute: IIT - Delhi
+Members: aditm, gautamgosain04, yashas2102
+Rating: 1112.310627699198
+
+Team: Team
+Institute: IIT - Guwahati
+Members: rishika_saria, botketan, ankitakanoji
+Rating: 1110.2803738317757
+
+Team: 2rists
+Institute: IIT - Delhi
+Members: kartikblah, Wasp69, Garv_nagori
+Rating: 1101.8691588785048
+
+Team: Codemons
+Institute: IIT - Madras
+Members: Mantra7, Sapta0506, Abdullah010
+Rating: 1091.0554135803334
+
+Team: Code_Manga
+Institute: IIT - Madras
+Members: AdC_AB2, HemeshDJ, Kruthic
+Rating: 1088.6594312129434
+
+Team: HONKAI STAR CODERS
+Institute: IIT - Roorkee
+Members: duhless, infinityverge, herogamer007
+Rating: 1086.8347338935573
+
+Team: Mono
+Institute: IIT - Madras
+Members: Mohit1802
+Rating: 1082.2429906542056
+
+Team: jigglypuff
+Institute: IIT - Roorkee
+Members: abhi_krsh, sukjin, IITeens
+Rating: 1076.6355140186915
+
+Team: ByteMasters
+Institute: IIT - Delhi
+Members: sai_kamal, techie-arpit, s-u-s
+Rating: 1074.8851769759842
+
+Team: KitKat
+Institute: IIT - BHU
+Members: NotRP7, yash_babel, avishaan
+Rating: 1070.792849848564
+
+Team: kaali_billi
+Institute: IIT - Guwahati
+Members: tpiyush, praththam, chikuuuu
+Rating: 1064.4257703081232
+
+Team: CP Mission: Possible
+Institute: IIT - Roorkee
+Members: aditya1703, amit_bishnoi29, Lohaaar
+Rating: 1059.8130841121497
+
+Team: Woah
+Institute: IIT - Patna
+Members: MihirMn3, YashPant
+Rating: 1058.647716107214
+
+Team: ByteBusters
+Institute: IIT - Guwahati
+Members: DestineDude, ayush.savar, _ayushpatidar18
+Rating: 1057.0093457943926
+
+Team: kuchh_bhi
+Institute: IIT - KGP
+Members: code_iamak, ronit26, OmSadhwani
+Rating: 1053.5086987726343
+
+Team: VP
+Institute: IIIT - Delhi
+Members: prem.kjain, invertedwinger
+Rating: 1051.4018691588785
+
+Team: CluelessCoders
+Institute: IIT - Roorkee
+Members: ho-oh, Rushit27, hercules_04
+Rating: 1047.0726103636173
+
+Team: binary_squad
+Institute: IIT - Roorkee
+Members: akslord, Khushal_Agr, jiraya_chan
+Rating: 1041.386559422343
+
+Team: Mazak
+Institute: IIT - Roorkee
+Members: ingenieux, hc101, _family_rocks
+Rating: 1035.0495762569926
+
+Team: FlamingTomatoes
+Institute: IIT - KGP
+Members: abhiramsiddanthi, Salicylismypop, srijan_4504
+Rating: 1028.9719626168223
+
+Team: Team_Kosaraju
+Institute: IIT - KGP
+Members: atharv825, mitramangalik, sm745052
+Rating: 1028.0892066615136
+
+Team: BottomUp
+Institute: IIT - Kanpur
+Members: akshat21, divamcode, deadlymonil
+Rating: 1026.1682242990655
+
+Team: Real ICPC
+Institute: IIT - GN
+Members: nishuz, Karan-Gandhi, crap_the_coder
+Rating: 1019.7744536657211
+
+Team: Satan
+Institute: IIT - Patna
+Members: tanishka_gupta, garg_tanisha, tanvi14
+Rating: 1017.7570093457945
+
+Team: BitMasters
+Institute: IIT - BHU
+Members: saatvik10, RoshanJain77, Ayrt_Samurai51296
+Rating: 1016.8423776833389
+
+Team: Some Random
+Institute: IIT - BHU
+Members: Dracarys_7, harman_69, Blaze_Sharp
+Rating: 1015.1132865782623
+
+Team: 2_plus_2_is_5
+Institute: IIT - Guwahati
+Members: ssacelestial, akr25, s4r7h4k
+Rating: 1014.9532710280374
+
+Team: Standard_Timepass_Library
+Institute: IIT - Roorkee
+Members: jatinjphs, nishchay_13, 93chetanj94
+Rating: 1006.5420560747664
+
+Team: Comp Wizards
+Institute: IIT - Kanpur
+Members: its_me_yps, darkDranzer, priyanshu9506992625
+Rating: 1000.9345794392524
+
+Team: DailyCF
+Institute: IIT - Roorkee
+Members: eklavya_k, Manikm, AdityaG
+Rating: 976.274185042737
+
+Team: Manifest
+Institute: IIT - Delhi
+Members: master.xyz, hidan_07, amaiya
+Rating: 975.7009345794393
+
+Team: The Owls
+Institute: IIT - Roorkee
+Members: Numinous, nano_nish, parthtotalfun
+Rating: 975.1562012049753
+
+Team: Surprise_mf
+Institute: IIT - Roorkee
+Members: arahan_673, Vedant18, Phantom3287
+Rating: 974.3770507265377
+
+Team: 106 cm
+Institute: IIT - Guwahati
+Members: y.avinav, RAVIwaves, anoop553407
+Rating: 973.738089253479
+
+Team: Slump Coders
+Institute: IIT - BHU
+Members: madhav_23, akshil_ahuja, GamerSheel
+Rating: 956.4950243772123
+
+Team: MDH Masala
+Institute: IIT - BHU
+Members: mridulr2003, danish_droid, harshit.30
+Rating: 953.474272016314
+
+Team: IIT Kanpur: WA.on.pretest2
+Institute: IIT - Kanpur
+Members: jayantjha1109, PrerakPro7, kum.chayan
+Rating: 945.3776504089284
+
+Team: masala_paties
+Institute: IIT - Roorkee
+Members: rayquaza, suvansh_505, aggarwal_08
+Rating: 941.305783424354
+
+Team: Bit_Matrix
+Institute: IIIT - Hyderabad
+Members: Manav_Shah24, prietukani, Mitansh_k01
+Rating: 936.5436300294316
+
+Team: 2g1b
+Institute: IIT - Kanpur
+Members: FOMOhNO666, stuck_at_iron1, ak.mpbf
+Rating: 920.599593263716
+
+Team: XORcists
+Institute: IIT - BHU
+Members: pertifiedcobra, Chimpanzee, shubhamgrg1000
+Rating: 916.2721396398516
+
+Team: Suffering...
+Institute: IIIT - Hyderabad
+Members: madhav__, yk03, Aegislash04
+Rating: 910.312978882067
+
+Team: ADA
+Institute: IIT - Delhi
+Members: Dhruv_Kushwaha2010, aniketabhiraj2004, Aryan16
+Rating: 896.693553915408
+
+Team: upsolve_H
+Institute: IIT - KGP
+Members: aryankgp, nikaru.Hakamura, teerath_482
+Rating: 882.6405867970659
+
+Team: TypeWriters
+Institute: IIT - BHU
+Members: Sarthak3204, Siddharth2EEE, dedman_av
+Rating: 878.564911128713
+
+Team: sandkifuddimesperms
+Institute: IIT - Roorkee
+Members: Cosmicoder, yougotnojams, sandeep5445
+Rating: 875.3056234718827
+
+Team: biraja
+Institute: IIT - BHU
+Members: jayantpranjal, hardik_836, advats2
+Rating: 869.1958260894714
+
+Team: HAMMER OF THOR
+Institute: IIT - Roorkee
+Members: aanjaneyeah, NanuG, sg9978
+Rating: 867.2230727631409
+
+Team: Bugsbyte
+Institute: IIT - KGP
+Members: uleenneelu, dogoeswoof, aditya_akd_iitkgp
+Rating: 865.1699685426806
+
+Team: brute_force
+Institute: IIT - Delhi
+Members: Dp_pratyaksh, Rohcoding, 17vali
+Rating: 859.3323514777909
+
+Team: pepsi_cut
+Institute: IIT - KGP
+Members: Ditto, pranav610, utsavm
+Rating: 856.6963911675768
+
+Team: tan_alpha
+Institute: IIT - Patna
+Members: akarsh_77, harshkunwar_legend, Deep_1026
+Rating: 856.6508968687208
+
+Team: Funny_Undead
+Institute: IIT - Madras
+Members: uniqua, ata_karim, ASB_
+Rating: 855.5196368191065
+
+Team: LiteLo
+Institute: BITS Pilani
+Members: Bhaskar1702, LeanCar, Lumpoo
+Rating: 853.3007334963324
+
+Team: naam_lite
+Institute: BITS Pilani
+Members: DaBest, ritviksingh791, nannu
+Rating: 850.2480737520942
+
+Team: Mission:Possible
+Institute: IIT - Roorkee
+Members: krishnavamsi21, shashi2004, anil_1908
+Rating: 842.8166106833016
+
+Team: ICantCPC
+Institute: IIT - Delhi
+Members: kmaydo, Hello_3585, tnahskid
+Rating: 831.2958435207825
+
+Team: Duobytes
+Institute: IIT - BHU
+Members: Rudra_1232, JAY19
+Rating: 820.7267841834486
+
+Team: Levenspiel
+Institute: IIT - BHU
+Members: Sloth_junkie, vibcode, Priyanshu_9695
+Rating: 818.3526418816504
+
+Team: INT_MAX++
+Institute: IIIT - Hyderabad
+Members: CodeG007, Archit_130604, umang_patel339
+Rating: 806.351866426029
+
+Team: Oranana
+Institute: IIT - BHU
+Members: Ojasva11, x0range, utkarsh.rai
+Rating: 796.558134860818
+
+Team: Eratosthenes
+Institute: IIT - KGP
+Members: you_know_me_right, frust2020, ritikraj26
+Rating: 792.1760391198043
+
+Team: Boogeymen
+Institute: IIT - Roorkee
+Members: X_calibur, Homelander__, Infer_no
+Rating: 789.7310513447433
+
+Team: thedinounraveled
+Institute: IIIT - Hyderabad
+Members: devilunraveled, ashmitchamoli
+Rating: 784.4443365399995
+
+Team: RK
+Institute: IIIT - Hyderabad
+Members: shr_revs, vedant_parekh, atharva_17
+Rating: 781.5126050420167
+
+Team: The_HardCoders
+Institute: IIT - KGP
+Members: somya-kr, harshsharma2024, Dynamic589
+Rating: 780.8859485114339
+
+Team: SoulCoders
+Institute: IIT - Guwahati
+Members: mit_riyaa, arnavai, HarshitSPakhariya
+Rating: 777.486951675283
+
+Team: Psyducks
+Institute: IIT - Kanpur
+Members: AnujS, dark_silence, Tesla_9000
+Rating: 777.1922544041349
+
+Team: Black_Pearl
+Institute: IIT - Delhi
+Members: abhinav__kumar, rishabhjaiswal395, sum_it.
+Rating: 771.3037673419633
+
+Team: BigO(7)
+Institute: IIT - Roorkee
+Members: rodger2041, Priyansh_16, OMEGAftw
+Rating: 769.4822871680035
+
+Team: Bitcodebats
+Institute: IIT - BHU
+Members: Tapish18, shreyam7713, PresentLogic
+Rating: 763.7274232983673
+
+Team: NK+Graviton
+Institute: IIT - Madras
+Members: 21NOYA13, mynk142857, JRG_222
+Rating: 758.5637565280589
+
+Team: IXXITwelve
+Institute: IIT - Roorkee
+Members: s4ndy, yoboy_423, noir_11
+Rating: 749.8647955728411
+
+Team: JalJeera
+Institute: IIT - BHU
+Members: sh1sh1maru, the_king_in_the_n0rth, 1RONMAN
+Rating: 739.5777942726205
+
+Team: #includeheader.h
+Institute: IIT - Delhi
+Members: akshatchaudhary, yaar_bhai, Untitled_geek306
+Rating: 729.6728971962616
+
+Team: TGMSHKL
+Institute: IIT - KGP
+Members: picramide, vivan_01, Cathedral
+Rating: 727.5700934579438
+
+Team: AHS
+Institute: IIT - Kanpur
+Members: aniket_borkar, harsh03, IBCB1
+Rating: 723.3644859813085
+
+Team: spider-verse
+Institute: IIT - Patna
+Members: Spider, Ashutoshkrh, dhruv09
+Rating: 714.9100761800047
+
+Team: RUDeCoders
+Institute: IIT - Roorkee
+Members: Demigod_101, rizul2108, darkhood148
+Rating: 712.1731447417529
+
+Team: rubicon drill
+Institute: IIT - Delhi
+Members: gagan1910, Madhav_Goel
+Rating: 709.5431589946015
+
+Team: HigherHigher
+Institute: IIT - Madras
+Members: Ayman78, Snehadeep, DhruvAgg03
+Rating: 704.4392523364486
+
+Team: hehe
+Institute: IIT - Delhi
+Members: patta.gobhi, Apoorva357, jvatsal0709
+Rating: 700.4356800645903
+
+Team: ICPC Aspirants
+Institute: IIT - Patna
+Members: Parv__12__, OS_BEIN_LAGGIN, heavy_koddar
+Rating: 698.1308411214953
+
+Team: !Care
+Institute: IIT - Delhi
+Members: airths
+Rating: 694.0009981435591
+
+Team: Egg Roll
+Institute: IIT - Patna
+Members: Topazz, 4d4rsh, code_hardik
+Rating: 693.9252336448598
+
+Team: PAScal_3angle
+Institute: IIT - Roorkee
+Members: why_pulkit14, iamaa_izuku, Devil_370
+Rating: 691.1676314867155
+
+Team: Falcon
+Institute: IIT - Guwahati
+Members: Ultimus007, Dheerajgandi, not_raunit
+Rating: 689.7196261682243
+
+Team: Wreckursion
+Institute: IIT - Kanpur
+Members: _Pahal_Aman, Shrey2091, indreshsingh
+Rating: 686.9158878504672
+
+Team: KGP_CSE_CC
+Institute: IIT - KGP
+Members: Sanskar_Mittal, KrishKhimasia, anitm
+Rating: 681.3084112149533
+
+Team: RuNtiME_ErRoR
+Institute: IIT - BBS
+Members: anshg03, strike07
+Rating: 675.0
+
+Team: god_syria_bashar
+Institute: IIT - Kanpur
+Members: juggernautjha, dg2022
+Rating: 672.8971962616822
+
+Team: Suits
+Institute: IIT - Delhi
+Members: GreySpecter
+Rating: 668.6915887850467
+
+Team: Gawdkechelle
+Institute: IIT - Delhi
+Members: Arnoob2120, smaheshwari2304, _heisenberg_20
+Rating: 661.8719696437356
+
+Team: Jarvis
+Institute: IIT - Delhi
+Members: jen4jain, RajC, hiral_garg
+Rating: 660.2803738317757
+
+Team: Hackerstreet boys
+Institute: IIT - Roorkee
+Members: Shivam_Jha, Mitvik, infernophoenix
+Rating: 656.7961266112673
+
+Team: Neon
+Institute: IIT - Kanpur
+Members: sanjay77, twix_85, chethan58
+Rating: 653.9719626168223
+
+Team: PassedPawns
+Institute: IIT - BHU
+Members: Ramanujan1729, Levi_XOR_Ackerman, Zerologic_Infinity
+Rating: 652.8383946865313
+
+Team: Clan_Uchiha
+Institute: VNRVJIET
+Members: manorath13, mega_bot, nandan_coder
+Rating: 652.4948735475052
+
+Team: Mavericks
+Institute: IIT - BHU
+Members: ayushi.mm, YouNIVERSE, its_time_to_grow
+Rating: 649.6533011757613
+
+Team: TLEscape
+Institute: IIT - KGP
+Members: sarthak_nik, swami_guruji, anuj1_k
+Rating: 648.4730811640059
+
+Team: KaRizMa
+Institute: IIT - Patna
+Members: Rishikant24, akhsinak, Sonder_Monger
+Rating: 647.6635514018692
+
+Team: tle_on_test_2
+Institute: IIT - BHU
+Members: 863aditya, Jus1t, HoMeLaNDeR616
+Rating: 644.3174854228861
+
+Team: Samaaj
+Institute: IIT - Guwahati
+Members: ALESTA, Insane_110, Majnu_gmsab
+Rating: 641.3551401869158
+
+Team: I.N.D.I.A.
+Institute: IIT - Roorkee
+Members: tonystark2022003, single_malt, abhimeenausa
+Rating: 639.3940089045017
+
+Team: MEQD
+Institute: IIT - KGP
+Members: Yuberca, shivanshu_0701, mayur0625
+Rating: 637.1495327102804
+
+Team: Wrong Answer on Pretest 1
+Institute: IIT - KGP
+Members: covert_insurgent, godeliscomplete, downfall
+Rating: 635.0467289719626
+
+Team: Codeplay
+Institute: IIT - Delhi
+Members: krishnagopalagarwal7, yadvendra_iitd, lagrangian_physics
+Rating: 632.8873280315784
+
+Team: Comding_Nhi_Aati
+Institute: IIT - KGP
+Members: Slum_dog, strategic_savant, morphinecode
+Rating: 630.841121495327
+
+Team: saanpo me saanp
+Institute: IIT - Delhi
+Members: Signior, Tirth11, Abhishek_1782
+Rating: 622.4299065420561
+
+Team: kachua n khargosh society
+Institute: IIT - Delhi
+Members: singh_naunidh, Ati_Awesome1, crownCTDM
+Rating: 619.6573970401175
+
+Team: KriViNa
+Institute: IIT - Madras
+Members: VigneshwaranMahadevan, krishna122356, CodeyBanks
+Rating: 618.2242990654206
+
+Team: The Lit Coders
+Institute: IIT - Patna
+Members: Devansh_Rai, SForSins, Aditya_10
+Rating: 614.018691588785
+
+Team: PseudoCodePirates
+Institute: IIT - Guwahati
+Members: Prakhar_1210, Kruthikesh, rohanmitra2420
+Rating: 613.9330705052016
+
+Team: Ash_Misty_and_Brock
+Institute: IIT - Madras
+Members: RSG_02, niranjankartha, Patel45
+Rating: 604.8330465158682
+
+Team: Oooops!!
+Institute: IIT - Kanpur
+Members: Mayank_Pushpjeet, Fahad_, AkshunyaVijayvargiya
+Rating: 601.7390070759927
+
+Team: beybladers
+Institute: IIT - KGP
+Members: disha_choraria, prashantkumar200104
+Rating: 601.4018691588785
+
+Team: TeamBen
+Institute: IIT - Madras
+Members: stumblebum, ChPriyanka
+Rating: 599.2990654205607
+
+Team: Team Kaala Khatta Fanclub
+Institute: IIT - Roorkee
+Members: kaisirius_7, somShake_her, c_men
+Rating: 593.5292359662707
+
+Team: data pirates
+Institute: IIT - Delhi
+Members: mercury6, ...Esha..., fantum
+Rating: 593.2436230763825
+
+Team: khaman_dhokla
+Institute: IIIT - Hyderabad
+Members: Nevil_Sakhreliya, Shubham_8402, sahil.patel4125
+Rating: 592.9906542056074
+
+Team: Ee Sala ICPC Namde
+Institute: IIT - Madras
+Members: bhukyatharun216, Bharath_1729, tejpavan
+Rating: 592.8422414000698
+
+Team: wa on pretest 2
+Institute: VNRVJIET
+Members: juice04, shashankindukuri14, nisritha35
+Rating: 590.9273182957394
+
+Team: mavericks
+Institute: BITS Pilani
+Members: Keshav19_goel, _parthib_coder_, vishnu54321
+Rating: 588.7850467289719
+
+Team: Syntax Error
+Institute: IIT - BBS
+Members: Aman_Dangi, SHUBHAM_788, Aditya_Trivedi1
+Rating: 586.6822429906542
+
+Team: apne_bande
+Institute: IIT - KGP
+Members: jg_in_cf, shivam_751, xxwip30utxx
+Rating: 584.5794392523364
+
+Team: CodingPandas
+Institute: IIT - Madras
+Members: Shaun0510, goelarnav12, anmol73
+Rating: 583.4710936526732
+
+Team: mnik
+Institute: IIT - Kanpur
+Members: mnik
+Rating: 582.4766355140187
+
+Team: Blank
+Institute: IIT - Delhi
+Members: _Gawd_, Just_humanic
+Rating: 581.5360056452657
+
+Team: N_torque
+Institute: IIT - Delhi
+Members: dark_ethics, 1729_prism, ghost_rider_123
+Rating: 580.3738317757009
+
+Team: just3Newbies
+Institute: IIT - Patna
+Members: sangyanDayal, Rahul_nikhate, Satyam533patel
+Rating: 578.9842657504165
+
+Team: printf(A_Squad);
+Institute: IIT - Delhi
+Members: Arsenic_05, PhysicsBoyAC, alpha_geek
+Rating: 578.7799156355333
+
+Team: CodeRogues
+Institute: IIT - BHU
+Members: cookie_jar, Pro_pain, ankursingh101022
+Rating: 578.2710280373831
+
+Team: RoadsideCoders
+Institute: BITS Pilani
+Members: string_eureka, NitroSpear, shxxtzcoder
+Rating: 576.1797983941452
+
+Team: Beta Testers
+Institute: IIT - BHU
+Members: kRoNicLe, Betelgeuse, ameynaik09
+Rating: 573.2338581297747
+
+Team: AP
+Institute: IIT - Delhi
+Members: pikachu_official, koder_ap
+Rating: 570.6941683360118
+
+Team: Hamiltonian_Trio
+Institute: IIT - KGP
+Members: When_Brain_Ded, _SLHT, SamarthS
+Rating: 570.0102445749453
+
+Team: 9lives
+Institute: IIT - Roorkee
+Members: Shanks_B, Yusuf.t10, Whitewhistle
+Rating: 569.8598130841121
+
+Team: Broken Code
+Institute: IIT - KGP
+Members: chandu1479, Avinashreddy17
+Rating: 569.8082093701681
+
+Team: power_storm
+Institute: IIT - KGP
+Members: nikhil_thogaru, Srivardhan_Maddi
+Rating: 568.9276138899679
+
+Team: The code blooded
+Institute: IIT - KGP
+Members: Vib_dave
+Rating: 563.3666991439478
+
+Team: Krash
+Institute: BITS Pilani
+Members: Shivansh0809, eagerbeagle, rahul4005
+Rating: 561.4371729543223
+
+Team: RedMaple
+Institute: BITS Pilani
+Members: iniya_adhithya, abhimanyu_raj, siddhu_441
+Rating: 560.1246105919003
+
+Team: CtrlAltGPT
+Institute: IIT - Patna
+Members: ThunderXGod, Manish_28, Hardik_4555
+Rating: 559.3457943925234
+
+Team: Baniya_bros
+Institute: IIT - Madras
+Members: Aditya_Jain__, Kritang, HVD_160
+Rating: 558.0991758529907
+
+Team: Dynamic
+Institute: IIT - Roorkee
+Members: chopra_01, rudrasurana_01
+Rating: 552.6092246875214
+
+Team: The_Titans
+Institute: IIT - Delhi
+Members: 5hu8h, ayush.604
+Rating: 549.172932330827
+
+Team: Dealbrakers
+Institute: IIT - Guwahati
+Members: ok3478, SnehDadhania, SanchayAI009
+Rating: 548.8317757009346
+
+Team: Trial_and_error
+Institute: IIIT - Delhi
+Members: RajAyush., okutkarsh
+Rating: 546.7289719626168
+
+Team: Logic Lords
+Institute: IIT - Kanpur
+Members: prem.kansagra1234, gauravgsmp, shivamlol
+Rating: 544.6594905890362
+
+Team: CPC
+Institute: LNMIIT
+Members: TarunAga, og_, Nitin1605
+Rating: 544.0092165898617
+
+Team: Akatsuki
+Institute: IIT - Kanpur
+Members: pankaj221188, kkarthik22, ruthvik16
+Rating: 542.5233644859813
+
+Team: NullVoid
+Institute: IIT - Roorkee
+Members: DarkyBoy, Sin1024, Mainamanhoon_
+Rating: 538.1520919498206
+
+Team: PixelPuzzlers
+Institute: IIT - Kanpur
+Members: __FRIDAY__, imagin.ary, dynamo_07
+Rating: 536.2149532710281
+
+Team: zeroes and ones
+Institute: IIT - Guwahati
+Members: its.anushk, adityaisnotacoder, aditya2004.k
+Rating: 536.046100683264
+
+Team: Eliminators
+Institute: IIT - Roorkee
+Members: jayant2040, sahil_k5, DevanshiSinghal
+Rating: 534.1121495327103
+
+Team: Crystal meth
+Institute: IIT - BHU
+Members: isocm, itztooeasy, 901jan31
+Rating: 531.2033146602502
+
+Team: Team Limit Exceeded
+Institute: IIT - Kanpur
+Members: yawning_winner, Himan_S, Swayyyy
+Rating: 526.5917572446313
+
+Team: AeVedya
+Institute: IIT - Roorkee
+Members: aree_manish, rajat_sinha, adt_cf
+Rating: 525.7009345794393
+
+Team: Darth_Vader
+Institute: IIT - Delhi
+Members: sumit0yadav, As1511, Bhavesh_gurnani
+Rating: 521.4953271028037
+
+Team: Team Ojha
+Institute: IIT - Roorkee
+Members: _watch_this_, Hrishikesh1107, moon932
+Rating: 521.2226462232175
+
+Team: electrical
+Institute: IIT - Patna
+Members: s1.
+Rating: 519.3925233644859
+
+Team: CodeTriad
+Institute: IIT - KGP
+Members: dev_064, girish08, HarshikaGoyal
+Rating: 513.0841121495326
+
+Team: Shinigami
+Institute: IIT - BBS
+Members: soham_c04, Mak_05, sangam2ishra
+Rating: 511.7500862996938
+
+Team: Persistent Monotonic TryHards
+Institute: IIT - BHU
+Members: Scythe, koderchit, mayank_singh_
+Rating: 510.13208404965917
+
+Team: ICPC_camp
+Institute: IIT - KGP
+Members: sampreeth2003, Yash23kr, maverick_195
+Rating: 509.6075261446122
+
+Team: DP Dynamos
+Institute: IIT - BHU
+Members: eshaansodhi, TheDevashishRaj
+Rating: 508.8785046728972
+
+Team: Horizors
+Institute: IIT - Guwahati
+Members: Aditya_Sarthak, aradhyajain25, AryanArya02
+Rating: 504.67289719626166
+
+Team: BitShifters
+Institute: IIT - Guwahati
+Members: daksharora, brajesh_muwel17, DeepakPrajapati
+Rating: 504.6609982894953
+
+Team: save_the_tigers
+Institute: IIT - Madras
+Members: sai_T_V_B_N, EDITH_23, Asish_4956
+Rating: 502.5700934579439
+
+Team: ICUC
+Institute: IIT - Delhi
+Members: beyond_imagination, Error383, wafflesandpancakes19
+Rating: 500.46728971962614
+
+Team: Gum_Gum_Bazooka
+Institute: IIT - Kanpur
+Members: rajputchinu028, harsh2007, chronosdhillon
+Rating: 499.7985360540487
+
+Team: Barely Legal
+Institute: IIT - Roorkee
+Members: akshat_017, CATASTR0PHER, ardor09
+Rating: 499.1651966204204
+
+Team: cout
+Institute: IIT - BHU
+Members: pranavajith, ishika_918
+Rating: 496.2616822429907
+
+Team: Debug_Dominators
+Institute: IIT - KGP
+Members: 09Jai, archer_25, Vikas1011
+Rating: 494.0913747534066
+
+Team: Hagerbook
+Institute: IIT - Guwahati
+Members: epicsaga, Ravan_10
+Rating: 493.8875305623472
+
+Team: chodforcers
+Institute: IIT - Delhi
+Members: sahuaditya003, ChanaMamra, Erwin_Eugen_Rommel
+Rating: 488.59158040658394
+
+Team: Graph_hoppers
+Institute: IIT - KGP
+Members: Raja_Kadagala, temp1967, kushireddylambu
+Rating: 487.85046728971963
+
+Team: ByteBrawlers
+Institute: IIT - BHU
+Members: nisarg_a19, anant_jain_01, _Aryan_
+Rating: 486.3332990578038
+
+Team: Garud-dwaar
+Institute: IIT - BHU
+Members: bhuvneshaggarwal12, choaticsoul, bishwajeetkaushal
+Rating: 485.7476635514019
+
+Team: CP_pe_charcha
+Institute: IIT - Roorkee
+Members: Manuka, neha_4321, cool-dude
+Rating: 482.47758761206194
+
+Team: Turing_Titans
+Institute: LNMIIT
+Members: Anuj2909, palak2210, vasu153
+Rating: 478.9891474416591
+
+Team: GreyHat
+Institute: IIT - Roorkee
+Members: guptaatharva_0120, singhalkhushi108, mayurrajpal
+Rating: 477.3364485981308
+
+Team: Sudoku
+Institute: IIT - Kanpur
+Members: TheQuestionMark, suyash20, dkjha20
+Rating: 471.02803738317766
+
+Team: cookie_byte
+Institute: IIT - BHU
+Members: janhavi_verma_c2, sameeksha_m, NoHypeOnlyHope
+Rating: 470.736219332922
+
+Team: algonauts
+Institute: BITS Pilani
+Members: Shaurya_CodeForces, lefteryx, D3VC
+Rating: 470.6632126149822
+
+Team: !geeks
+Institute: IIT - KGP
+Members: tramp3, Sahil__511, Anonymous_2004
+Rating: 469.9512064490585
+
+Team: MathMania
+Institute: IIT - Roorkee
+Members: Pawan_Lahoti, rishuk1.iitr, prakashprajapat651
+Rating: 467.84104596476664
+
+Team: gigaSad
+Institute: IIIT - Hyderabad
+Members: anabolx, frieza, bjainit
+Rating: 467.8076609616951
+
+Team: Ctrl_alt_del
+Institute: IIT - Roorkee
+Members: TheSilvanElf, rhythmmundra777, winterfell_3
+Rating: 466.8224299065421
+
+Team: Syntax_Savants
+Institute: IIT - Kanpur
+Members: naman2411, atharv_soni, Vikasy21
+Rating: 465.7636260403725
+
+Team: Geothermal69
+Institute: IIT - KGP
+Members: newbie_1171, yashkale2, srijansrivastava
+Rating: 461.28769356153225
+
+Team: OWACA
+Institute: IIT - BHU
+Members: sourav_patwal, Enma
+Rating: 456.39771801140995
+
+Team: JS coder
+Institute: IIT - Madras
+Members: mvaja13, DrkShaden
+Rating: 453.781512605042
+
+Team: Oyess
+Institute: IIT - Delhi
+Members: coderRash, ayushakki_181, dev234
+Rating: 450.0
+
+Team: Swift_Mafias
+Institute: IIT - Kanpur
+Members: pradeepc, HumbleCoder1234, spoily_frog
+Rating: 449.28533760692534
+
+Team: Turing
+Institute: IIT - Kanpur
+Members: guptasg11421, zainab1607, vidhi....123
+Rating: 448.24775876120617
+
+Team: lalala
+Institute: IIT - Guwahati
+Members: divyagarg4747, aasthakhandelwal
+Rating: 445.7943925233644
+
+Team: Ctrl Alt Elite
+Institute: IIT - BHU
+Members: phoenix_vc, shriya_tiwari, messy....
+Rating: 436.3139714675258
+
+Team: ASL
+Institute: IIT - BHU
+Members: ____Help_me___, sAijaswanth, vishnukarthikeyas
+Rating: 435.6678090895559
+
+Team: PowerpuffGals
+Institute: IIIT - Hyderabad
+Members: koweed19, prani2413g, KKcuber
+Rating: 435.20782396088015
+
+Team: fafda_jalebi
+Institute: IIIT - Hyderabad
+Members: ukaniirfan, Hshah, darshak_devani
+Rating: 433.1775700934579
+
+Team: B-320
+Institute: IIT - Patna
+Members: aviitp, SuryanshIITP, Ayush0904
+Rating: 429.29208958923505
+
+Team: The Noobs
+Institute: IIT - Roorkee
+Members: akshattricode04, akshatgarg25, veeedeee
+Rating: 428.97196261682245
+
+Team: WrongOnTest2
+Institute: IIT - Roorkee
+Members: paneerpyaz, Adenosine, toxisethi
+Rating: 427.47493734335836
+
+Team: seg_fault
+Institute: IIT - KGP
+Members: ranveerraj, Shreyans_6_5
+Rating: 425.77030812324927
+
+Team: hail_ThreeCPers
+Institute: IIT - Madras
+Members: r3kste, shadowassassin, Pappan
+Rating: 423.23704333050125
+
+Team: BitBuilders
+Institute: IIT - Madras
+Members: buburibu1234, MN_CC03, dipanshu.panda75
+Rating: 421.3515602982733
+
+Team: TeamAOT
+Institute: IIT - Kanpur
+Members: aatman21, devilslayer12321, tgtg_oldgram
+Rating: 420.5607476635514
+
+Team: duo
+Institute: IIT - Guwahati
+Members: yabhist, rockhopper130
+Rating: 420.16806722689074
+
+Team: Black_Clover001
+Institute: IIT - BHU
+Members: Vecna001, 6string_guy, 27kashi
+Rating: 416.3551401869159
+
+Team: Byte_Me
+Institute: IIT - Patna
+Members: deckerstar, Andp, SAI_03
+Rating: 416.13477442356333
+
+Team: Raptors
+Institute: IIT - BHU
+Members: Aditya_Raj1234, agnishuddho, Imerachit
+Rating: 414.2523364485981
+
+Team: mutex_icpc
+Institute: IIT - KGP
+Members: swapbeast, SyberCage, kushazsehgal
+Rating: 412.14953271028037
+
+Team: Team Oppie
+Institute: IIT - KGP
+Members: vachan_sid, rohith_yerra, silent_kid
+Rating: 407.49796251018745
+
+Team: BufferOverf
+Institute: IIT - KGP
+Members: Rippr, ZetaCoder, raghav.exe
+Rating: 406.16246498599435
+
+Team: Sleepy pandas
+Institute: IIT - KGP
+Members: iitkgp.sinha.parth, split_foton, anonymous_rk
+Rating: 405.8679706601466
+
+Team: Nimbu pani
+Institute: IIT - Roorkee
+Members: __Asta_, kartikey_5960, Harshtiwarimgs.
+Rating: 405.7984675029895
+
+Team: Some_team
+Institute: IIT - Patna
+Members: Bono_22, ABHIJEET_1125, Pain_Gain
+Rating: 405.77579285836794
+
+Team: Hello World
+Institute: IIT - Roorkee
+Members: hermes1404, K.Bansal, pg14
+Rating: 404.30107526881716
+
+Team: Let_The_Weed_Bun
+Institute: IIT - Roorkee
+Members: ayush_iitr516, L_Lawliet_, ManilK
+Rating: 402.60798696006515
+
+Team: Code Wizards
+Institute: IIT - KGP
+Members: sauravdeshmukh678, Vaishnavi_Pandey, Thor_Thunder
+Rating: 401.63551401869165
+
+Team: Straw_Hats
+Institute: IIT - Madras
+Members: naveen1311, yaswanth56, YaSh_HckrDeVL
+Rating: 399.53271028037386
+
+Team: Forcecodes
+Institute: IIT - BHU
+Members: redquasar, wild_emperor, santosh_k22
+Rating: 395.9660379126595
+
+Team: MangoPeels
+Institute: IIT - Delhi
+Members: keshu71, Shamil0018, mango_peel
+Rating: 395.32710280373834
+
+Team: Bruh
+Institute: LNMIIT
+Members: .utk., PHOENIX_RISER, Sreedhar3210
+Rating: 392.156862745098
+
+Team: CodingComrades
+Institute: IIT - Kanpur
+Members: areeinium23, learn_unknown, Aditya.Raj
+Rating: 391.304347826087
+
+Team: Otaku_Algo
+Institute: IIT - Patna
+Members: Animeshiitp, Mihir2502, chief2410
+Rating: 390.68695778016433
+
+Team: Runtime Terror
+Institute: IIT - Roorkee
+Members: Kalpit_K, kanhaiya_k, hardik_agarwal_iitr
+Rating: 389.01869158878503
+
+Team: Algophobic
+Institute: IIT - Roorkee
+Members: harsh9308479159, sanjay369, prial_21
+Rating: 382.71028037383184
+
+Team: San_qua
+Institute: IIT - Roorkee
+Members: P.Y.Karthikeya, Vickey_001
+Rating: 379.7881010594947
+
+Team: MACHAU_KGP_SQUAD
+Institute: IIT - KGP
+Members: Avik08, debaditya564, ByteBattler
+Rating: 376.68820584468506
+
+Team: Algorithm Architects
+Institute: LNMIIT
+Members: web_assasin, KINGZIE, ayushk22
+Rating: 375.3501400560224
+
+Team: The Aces
+Institute: IIT - BBS
+Members: Gourav1642, Amiteshks
+Rating: 374.89812550937245
+
+Team: Sharingan201
+Institute: IIT - Guwahati
+Members: fanemigo, Darkrai81, chai.pi
+Rating: 374.8350014091051
+
+Team: PumssySlayers
+Institute: IIT - Delhi
+Members: AntiXor, BitSlayer, ajstyle_
+Rating: 374.1645676748687
+
+Team: ezpz
+Institute: IIT - Delhi
+Members: bowtiekindofguy, rogerthat1729, TakeshiKovacs0610
+Rating: 372.196261682243
+
+Team: In_the_beninging
+Institute: IIT - BHU
+Members: utkarsh.hack, kal_bhairav, ni_ind_me
+Rating: 371.63814180929097
+
+Team: Moon_fraction
+Institute: IIT - Patna
+Members: dr.owl, Devansh33, Devankar_123
+Rating: 370.68481885280937
+
+Team: UI
+Institute: IIT - BHU
+Members: rohith1618, Hsr_1263, Unnu
+Rating: 370.55484465568327
+
+Team: ME rockstars
+Institute: IIT - Delhi
+Members: kushalg1, akshatt0, subhamyadaviitd007
+Rating: 370.0934579439252
+
+Team: Rocket
+Institute: IIT - Patna
+Members: Suplex
+Rating: 368.9851174114506
+
+Team: Pretests Passed
+Institute: IIT - BHU
+Members: mai_3, thats_it, Dipti_143
+Rating: 366.0404717836224
+
+Team: Team_Rocket
+Institute: IIT - BHU
+Members: SP_22, aryanrohit, Radewoosh_fan
+Rating: 363.57415701239256
+
+Team: 2CDBlast
+Institute: IIT - Roorkee
+Members: kartik_ag, shashanky846, Hackermayank
+Rating: 361.68224299065423
+
+Team: XYZs
+Institute: IIT - Guwahati
+Members: a1verma8105, ayush03007, agniv2701
+Rating: 360.91551309674617
+
+Team: Ashurs
+Institute: IIT - Madras
+Members: baggalog, Shankar_lal, AK_Lamba
+Rating: 360.4086425070374
+
+Team: B71 Blokes
+Institute: IIT - Delhi
+Members: lilac005, NilaySharma, Aryan1674
+Rating: 359.57943925233644
+
+Team: zirconium
+Institute: IIT - Delhi
+Members: cosmo_loki, gayatrijaiswal, tpahadia
+Rating: 357.47663551401865
+
+Team: The_Boys
+Institute: IIT - Delhi
+Members: RajAyush., starx2002, dirac_de
+Rating: 356.9682151589241
+
+Team: Hehe
+Institute: IIT - Madras
+Members: Kams7
+Rating: 355.74229691876747
+
+Team: void
+Institute: IIT - Guwahati
+Members: jazzsterq, sarthakkapoor444, sujalr655
+Rating: 355.373831775701
+
+Team: !runtime error
+Institute: IIT - KGP
+Members: rmkgpian10052, tab_10082
+Rating: 354.59014568353757
+
+Team: CowardlyDawgz
+Institute: IIT - Madras
+Members: advikkabra25, ShadowPenguin
+Rating: 354.26701780042504
+
+Team: Triplets
+Institute: IIT - Guwahati
+Members: Rohith18, Roverbk
+Rating: 353.2710280373832
+
+Team: Newbies
+Institute: IIT - Kanpur
+Members: himanshuhy004, grimatato, _radhe_krishna
+Rating: 351.5154259191661
+
+Team: Unprofessional Coders
+Institute: VNRVJIET
+Members: naveentummala033, shailesh_2004
+Rating: 351.4388243335611
+
+Team: VectorsAndScalars
+Institute: IIT - Madras
+Members: s.yuvan, Moksha1729
+Rating: 351.16822429906546
+
+Team: napTime
+Institute: IIT - Guwahati
+Members: achintya7567, ds1410, infinitix
+Rating: 350.71835235566084
+
+Team: cp_geeks
+Institute: BITS Pilani
+Members: harshitnagpal461, Dynamic17, static10
+Rating: 349.06542056074767
+
+Team: MCPC
+Institute: IIT - Kanpur
+Members: d3bug1t, Raghav.madan1034, aarsh.kaushik123
+Rating: 347.1882640586797
+
+Team: Teen Coders
+Institute: IIIT - Hyderabad
+Members: himanshu_yv, sidcodes_123, PROhan
+Rating: 346.89242909323553
+
+Team: EC_PC
+Institute: IIT - Madras
+Members: akshitha_175, Aasritha15, Gomathi178
+Rating: 345.68148159302274
+
+Team: nijanga bro
+Institute: IIIT - Hyderabad
+Members: abracodeabra, raghavanijesh2422, laser.popcorn
+Rating: 345.55827220863887
+
+Team: sutta_phukars
+Institute: IIT - KGP
+Members: lonewolf154, dhruvrathi04, Harshsingh_26
+Rating: 343.3812666959859
+
+Team: ShaHi
+Institute: IIT - Guwahati
+Members: LyKa, eve189
+Rating: 342.75700934579436
+
+Team: hamseNhiHoga
+Institute: IIT - Guwahati
+Members: Kannan_Rustagi, kasssture, ShaK_C
+Rating: 342.29828850855745
+
+Team: maniACs
+Institute: IIT - GN
+Members: mshandilya, CodeKracker, kristopherPaul
+Rating: 342.04978171234535
+
+Team: Ace
+Institute: IIT - BHU
+Members: antonio_23, justcode1990, naruto23
+Rating: 339.5225418732719
+
+Team: Codebots
+Institute: IIT - Madras
+Members: aadarsh_.ram, Akiii_3014, harshith.m.r
+Rating: 338.5514018691589
+
+Team: Ashareerikal
+Institute: IIIT - Hyderabad
+Members: CoderKishor, bluebottlewize, evantadore
+Rating: 335.41155579254314
+
+Team: __bitset
+Institute: IIT - Roorkee
+Members: ayush_r01
+Rating: 333.10197910940076
+
+Team: algorithmartisans
+Institute: IIT - Kanpur
+Members: nipunnohria2016, cody_mig, vector123
+Rating: 332.52146653053745
+
+Team: Quantum Knights
+Institute: IIT - Madras
+Members: Prashant0908, PravinRavi, Saumy_1
+Rating: 332.134356267471
+
+Team: dangerless
+Institute: IIT - Kanpur
+Members: anand20.official, manan21mth, GagandeepKolambe
+Rating: 330.21161380798554
+
+Team: code_fighters
+Institute: IIT - Madras
+Members: karthik_chevvuri, Gypsy_ravan, ee20b015
+Rating: 330.14018691588785
+
+Team: codeBOTS
+Institute: IIT - BHU
+Members: ramu1440, bhanu2306, vishnu_maurya
+Rating: 326.8063204076503
+
+Team: Hope--
+Institute: IIT - Delhi
+Members: Marry_Me_Tzuyu, mr.offseason, SavageSharma
+Rating: 325.9345794392523
+
+Team: The Perpetual Motion Squad
+Institute: IIT - BHU
+Members: o_ojas, RoxxStar, lp512
+Rating: 324.9583933155101
+
+Team: QuackQuack
+Institute: IIIT - Hyderabad
+Members: PenguinSupremacy, yashinde, Abhinav7R
+Rating: 322.73838630806847
+
+Team: BabySharks
+Institute: IIIT - Hyderabad
+Members: zishan_k, AH666, Piccacu
+Rating: 322.1100507400689
+
+Team: Galactic Fury
+Institute: IIT - KGP
+Members: codeablar, divyanshvj, Ammeter
+Rating: 321.872025093656
+
+Team: V77P
+Institute: IIIT - Delhi
+Members: VKnight, Niteen77, parashar22475
+Rating: 320.688646167361
+
+Team: Faceless men-4.0
+Institute: IIT - Kanpur
+Members: venkatesh1729, sainikhils, mohammedanas445
+Rating: 319.6261682242991
+
+Team: Icpc lesssgo
+Institute: IIT - Delhi
+Members: twoninezerothree, devilminati18, alice29
+Rating: 315.4205607476635
+
+Team: Div 0
+Institute: IIIT - Hyderabad
+Members: tyranistar, zed_titan, amzngNbdy24
+Rating: 313.3177570093458
+
+Team: Lessgooo!
+Institute: IIT - Madras
+Members: Sujal_Burad
+Rating: 311.07321079131805
+
+Team: varun teja
+Institute: IIT - Madras
+Members: janitorinferni, Krishj12, Daiousama
+Rating: 305.5106482645157
+
+Team: i_see_PC
+Institute: IIT - Madras
+Members: Rocky_786, AG_BOSS, RedSnow389
+Rating: 302.69743988769886
+
+Team: Ctrl+Shift+Elite
+Institute: BITS Pilani
+Members: Lucyfer1865, ProAltro, Bhara8t
+Rating: 296.4953271028037
+
+Team: Sadists
+Institute: BITS Pilani
+Members: ParthJha17, ojasjain94, JDC
+Rating: 294.39252336448595
+
+Team: BitWave
+Institute: IIT - BHU
+Members: garg_prashant, Prashant_ksy
+Rating: 290.18691588785043
+
+Team: team_rocket
+Institute: IIT - Madras
+Members: Yash_vardhan08, Tigervictor12
+Rating: 289.27779593483024
+
+Team: Bablasaur
+Institute: IIIT - Hyderabad
+Members: itschirag_0203, mohak3404, legend479
+Rating: 288.5085574572127
+
+Team: Dynamic Programmers
+Institute: VNRVJIET
+Members: Thoparam_Sai_nithish, vidhyadhar9, PHANTOM_23
+Rating: 287.593984962406
+
+Team: Only_Pupils
+Institute: IIT - BHU
+Members: I_am_Jacks_FOMO, Gr1nd_Maester, Patrick_batman
+Rating: 287.1836850189991
+
+Team: Hello123
+Institute: IIT - BHU
+Members: unStopableForce, chetan2004, lucario_556
+Rating: 287.0085269900753
+
+Team: Not_Required
+Institute: IIT - Madras
+Members: pro_ratan, RAV_IITM
+Rating: 284.986147596368
+
+Team: logic_lords
+Institute: IIT - Kanpur
+Members: mayanka22, DEBRAJ_KARMAKAR
+Rating: 279.6728971962617
+
+Team: BRpower
+Institute: IIT - Roorkee
+Members: Vanshgupta281, Chegg, wadepool
+Rating: 278.93882960491743
+
+Team: Big bang theory
+Institute: IIT - Patna
+Members: DivGta, Codefeverpatient, Ankit.463
+Rating: 275.4686226568867
+
+Team: Greedy_Video
+Institute: IIIT - Hyderabad
+Members: dp911, hemangjain112, AryaT
+Rating: 273.83863080684597
+
+Team: Rizzler
+Institute: IIT - KGP
+Members: ImagineTime, ashutoshasharsifake, phoenixluaoyd
+Rating: 272.3130841121495
+
+Team: ByteBrawlers
+Institute: IIT - BHU
+Members: the_dg04, ttirth1234518, rijul_57
+Rating: 272.1481715172069
+
+Team: OptionalLeverage
+Institute: IIT - Patna
+Members: HorridBear
+Rating: 270.3123812877755
+
+Team: Wreckage
+Institute: IIT - Kanpur
+Members: gangaj21, cnawal07, sajaljain23
+Rating: 269.15887850467294
+
+Team: Binary_world
+Institute: IIIT - Hyderabad
+Members: mittalshivam_2709, Kevin0099, GARVITGUPTA955
+Rating: 267.4917459413905
+
+Team: Fire_Bolt
+Institute: IIT - Guwahati
+Members: ChandrashekharD, hayagrivan.dj, kanishk29.mehta
+Rating: 267.31866340668296
+
+Team: JSP
+Institute: IIT - Patna
+Members: shanmukha.m.priya, 04Jasmine, sampreety
+Rating: 263.4547818143489
+
+Team: Fire Sparks
+Institute: IIT - Madras
+Members: Chaitu121212, DSVamsi, rupesh_b
+Rating: 262.6438048084439
+
+Team: Roders
+Institute: IIT - Guwahati
+Members: pro_harshit, niku_raaz
+Rating: 260.74766355140184
+
+Team: OreoCoffee
+Institute: IIIT - Hyderabad
+Members: DheeruYS, vishesh312
+Rating: 260.02064148557764
+
+Team: IronCoders
+Institute: IIIT - Hyderabad
+Members: proton_pratt, Mjolnir65, RandomDud123456
+Rating: 255.90872045639773
+
+Team: Padhagattam
+Institute: IIT - Madras
+Members: Lalith_123, YYS_2705, kireetiH
+Rating: 254.066505952517
+
+Team: 3 Musketeers
+Institute: IIT - Madras
+Members: The_White_Wolf, winter_inferno, KilingarAshwin
+Rating: 253.38785046728972
+
+Team: Dakuvi
+Institute: IIT - Roorkee
+Members: Asura_5124, dattucode, ViV_06
+Rating: 252.64873675631623
+
+Team: !found
+Institute: IIT - Kanpur
+Members: sultan__, PRO_fessor_, akash_birthal
+Rating: 252.33644859813083
+
+Team: we_HIB
+Institute: IIT - Roorkee
+Members: insane_22, huda7024, xcelco_ish15
+Rating: 252.14688587772014
+
+Team: Neon_KJ
+Institute: IIT - BHU
+Members: dyson_spherical, tony_starch, ONLYOP
+Rating: 251.03940543381395
+
+Team: ALT+F4
+Institute: IIT - Guwahati
+Members: molik_28, Deva145, nityam_tbh
+Rating: 250.77779144121988
+
+Team: KHAS
+Institute: IIT - Roorkee
+Members: sachin_gupta21, Abhi_4900, khushangi_444
+Rating: 249.64531174228864
+
+Team: Excelsior
+Institute: IIT - Guwahati
+Members: gargi3315, suman_meena, dxIII1319
+Rating: 249.49034191744929
+
+Team: EXC
+Institute: IIIT - Hyderabad
+Members: thefourthclover, deekshithas, tsmitra
+Rating: 246.16526644781106
+
+Team: Binary Brains
+Institute: IIT - Patna
+Members: KushagraVedRiti_2127, Krishna_3747, Krrish_Raj
+Rating: 244.286467643292
+
+Team: Coders@iitg
+Institute: IIT - Guwahati
+Members: blisterfalcon, Amogus99, j.harshal
+Rating: 243.92523364485982
+
+Team: Penguins of Roorkee
+Institute: IIT - Roorkee
+Members: meghshah0409, AnshBhardwaj, Darsh_jain
+Rating: 241.82242990654206
+
+Team: achievers
+Institute: IIT - Patna
+Members: Ramnivas_iitp26, adityasandilya, aloksingh910
+Rating: 241.82242990654206
+
+Team: Trio_Whackers
+Institute: IIT - Patna
+Members: raj.patil, amrutkarsoham22, satvikchauhan424
+Rating: 240.0028753360906
+
+Team: SyntaxTitans
+Institute: IIIT - Hyderabad
+Members: Jayesh_27, abhi____123
+Rating: 239.86547466080287
+
+Team: Send_Link
+Institute: IIT - Guwahati
+Members: sarg19, Priyanshu188, OP_NewBie
+Rating: 239.43244779574417
+
+Team: FODECORCES
+Institute: IIT - KGP
+Members: SharathSsSs, lazy-guy-1618, utsav03
+Rating: 237.97881010594946
+
+Team: BERMUDA
+Institute: IIIT - Hyderabad
+Members: DAKEN07, onusparta, aconot10
+Rating: 236.77391483065358
+
+Team: OddBit
+Institute: IIT - Roorkee
+Members: aviral311, DRDIV, sara_04
+Rating: 235.7988864261286
+
+Team: Demaine_Kadanekstra
+Institute: IIT - Madras
+Members: grin_274, JG_0212, AJ_S003
+Rating: 233.91171753818648
+
+Team: Beast
+Institute: LNMIIT
+Members: Sahil_2002, r-a-j, icarus18
+Rating: 229.3774756894712
+
+Team: Error 505
+Institute: IIT - BHU
+Members: StoneCoder, SomeYoGuy, TheVidz
+Rating: 228.21923390383046
+
+Team: Twintowersandaeroplane
+Institute: IIT - Patna
+Members: ashu_1491981, codestorm666778, Unique_patna
+Rating: 228.19885900570497
+
+Team: __SSD__
+Institute: IIIT - Hyderabad
+Members: the_broken_keyboard, StarryBadger927, Dikshant-
+Rating: 226.03169343966363
+
+Team: Binary Bandits
+Institute: LNMIIT
+Members: Punpun018, a_bajaj, AG__
+Rating: 225.75740822644846
+
+Team: Confuders
+Institute: IIIT - Hyderabad
+Members: avilol, unignoramus, Leningrad_Sniper
+Rating: 223.41856199621694
+
+Team: GameCC
+Institute: IIT - Roorkee
+Members: danish84
+Rating: 221.88038157156402
+
+Team: team_cypher
+Institute: IIT - KGP
+Members: animesh7363, cypher_vivek, adi_7744
+Rating: 218.41890790546046
+
+Team: Compilationship
+Institute: IIT - BHU
+Members: toomanycodes, Artistic_Conjurer, KritarthBatra
+Rating: 218.02064529396978
+
+Team: ForceCoders
+Institute: IIT - Patna
+Members: meumarkhan, Phantom_22, faizanmd08
+Rating: 217.64018691588782
+
+Team: clove
+Institute: Unofficial (Graduates)
+Members: hii_sajal, ansh_star1, _rituraj314
+Rating: 217.2073314088258
+
+Team: LadyBug and Cat Noir, But its only Cat Noir here rn
+Institute: IIT - Roorkee
+Members: SpryzenValtryek
+Rating: 216.0238907892214
+
+Team: BitCrackers
+Institute: IIT - Guwahati
+Members: Vikrant_546, CRISIS_LANDER, venkylm10
+Rating: 215.53738317757006
+
+Team: Collaterals
+Institute: IIIT - Hyderabad
+Members: The_MazeRunner, bassamadnan, Selenotrope
+Rating: 215.30885537802473
+
+Team: CtrlShiftCode
+Institute: IIT - Roorkee
+Members: Arpitha04, vaibhavi812, shreya_2413
+Rating: 214.9113645213686
+
+Team: Logic Loading
+Institute: IIT - Kanpur
+Members: Gabbar365, Shadow_walker9170, dhruvg190305
+Rating: 213.90336077914628
+
+Team: GoodBoys
+Institute: IIIT - Hyderabad
+Members: tejas2, darkknight98, araavind-312
+Rating: 212.05242373647363
+
+Team: Data_pirates
+Institute: IIT - Madras
+Members: Vibhav_kanakamedala, Gireesh_IITM, Bhargav_ganesh
+Rating: 211.58729281306472
+
+Team: icpc_nibbas
+Institute: IIT - Madras
+Members: fardeenrazif, Irish_Man003, gingerheef003
+Rating: 211.494298836917
+
+Team: godnan
+Institute: LNMIIT
+Members: NamanJ_1, namanxain, notblondenough
+Rating: 210.82858950031627
+
+Team: Logiclegends
+Institute: IIT - Kanpur
+Members: amanpandey_09, sarathkumar7182, paw_sam
+Rating: 210.0098827776889
+
+Team: Troopers
+Institute: IIT - Madras
+Members: SHG_123, OverwatchRB, stormcodebreaker
+Rating: 208.62619869143646
+
+Team: bitter_bits_
+Institute: IIT - Roorkee
+Members: sign-bit, shyam_sp
+Rating: 205.0233644859813
+
+Team: AlgoForces
+Institute: IIT - KGP
+Members: Swapnik, sahith2004, Gundeti_Manoj
+Rating: 203.77506874147875
+
+Team: epsilonNaught
+Institute: IIT - Roorkee
+Members: tanay_K, j_ubhi, NardDog
+Rating: 200.4119824822791
+
+Team: Steveeee
+Institute: IIT - Roorkee
+Members: Nitesh_Jangid_, Uruguay
+Rating: 200.13555315872208
+
+Team: Vikram
+Institute: IIT - Guwahati
+Members: Aaditya_gupta, harshiitg2025, rahul710
+Rating: 199.84146419825365
+
+Team: Three_newbs
+Institute: IIT - Madras
+Members: YAsh_T, Innocent_Zero, krthk_2208
+Rating: 199.83962983410888
+
+Team: Fcoders
+Institute: IIT - Guwahati
+Members: nilesh_27, Void_99, bansalram5903
+Rating: 199.07275171568068
+
+Team: MadLab19
+Institute: IIT - Roorkee
+Members: paradoxplusparadise, archie_18, yashyadav0171
+Rating: 195.4364988689075
+
+Team: Bakarwadi Supremacy
+Institute: IIT - Madras
+Members: MihirVai, aytidaxd, DEV87
+Rating: 195.01800878092385
+
+Team: Chandrian
+Institute: IIT - KGP
+Members: IkshitG, inferno_7, aubreyvishal
+Rating: 194.3353974818911
+
+Team: noobs
+Institute: IIIT - Hyderabad
+Members: mananchichra, UxoriousHades03, namanbahl
+Rating: 193.59778524727275
+
+Team: Ashoka
+Institute: IIT - Madras
+Members: Abhiraj4711, adwait13
+Rating: 191.79386696524463
+
+Team: [i for i in range(2)]
+Institute: IIT - Madras
+Members: that_guy_on_ur_hitlist, Maddy11
+Rating: 188.35993495266166
+
+Team: HexClan
+Institute: IIT - Roorkee
+Members: Tamannarao2004, Warriorcode, ritzz_09
+Rating: 187.88785300621785
+
+Team: PixelPuzzlers
+Institute: IIT - Guwahati
+Members: Rithvik_Rao, Deecey01, raj2504
+Rating: 187.2630062619995
+
+Team: MAK_coding
+Institute: IIT - Madras
+Members: melvjn_17, Aks_A01, kousik_123
+Rating: 187.14953271028037
+
+Team: COS
+Institute: IIT - Madras
+Members: Coder_nub1103, KINGPIN8825
+Rating: 186.48715810159268
+
+Team: acads lite
+Institute: BITS Pilani
+Members: Sheikhjabooti, ABHEEKA
+Rating: 186.28483726740245
+
+Team: ByteRangers
+Institute: IIT - Guwahati
+Members: dangerxsy, dishantttt, Sulabh36sep
+Rating: 185.20276187438935
+
+Team: abc
+Institute: IIIT - Hyderabad
+Members: vamsee_24, Krish9904, chandanapy
+Rating: 185.0400495714174
+
+Team: KajuKatli
+Institute: IIT - Patna
+Members: amanvyas, Harshitbro498, _Atreus
+Rating: 184.18907905460472
+
+Team: koders
+Institute: IIT - BHU
+Members: karan_iitbhu, jinesh1, _Akshun_
+Rating: 180.28452497924425
+
+Team: CtrlAltN
+Institute: IIT - Roorkee
+Members: Komal_13, Akshay_panwar_01, Krittttii
+Rating: 177.54705268529733
+
+Team: Algostars
+Institute: IIT - Kanpur
+Members: ktp200, prabhat_7167, maejik
+Rating: 176.93635036512092
+
+Team: RGB
+Institute: IIT - Guwahati
+Members: Ishan_23, aayushsuthar, inf02
+Rating: 169.0208242884019
+
+Team: Team Sheldon
+Institute: IIT - Madras
+Members: _M7s3c7, nightfury02, Moumitha
+Rating: 168.01740007863103
+
+Team: demossers_bakul
+Institute: IIIT - Hyderabad
+Members: ad1tya2, vishakkashyap, adinair.ggn
+Rating: 164.58535521110343
+
+Team: Hustlers
+Institute: IIT - Delhi
+Members: vaibhavbunny, Danish_Jhanji
+Rating: 158.41121495327104
+
+Team: UniversalSearchEnjoyers
+Institute: IIT - Kanpur
+Members: aaravaryaman, blastonomics, SoloAscender
+Rating: 157.912601208022
+
+Team: A_square
+Institute: IIT - Delhi
+Members: asy_01, Akiii_3014
+Rating: 156.09921387910003
+
+Team: TheSantrio
+Institute: IIT - Madras
+Members: Nyxia_1370, Sravya_Rangu, anjali21
+Rating: 156.02135365491398
+
+Team: Men of Culture
+Institute: IIT - Kanpur
+Members: Tanush_24, Darshan_7, bhaumikchawda
+Rating: 155.60747663551402
+
+Team: Team Hack Trio
+Institute: IIT - Roorkee
+Members: Mr_K_IIT, garvit_2004, dwivedikaustubh473
+Rating: 154.64537121392004
+
+Team: Backbenchers
+Institute: IIT - Guwahati
+Members: rdlr_x1, shivaga
+Rating: 154.03422982885084
+
+Team: CP_Gods
+Institute: IIT - Guwahati
+Members: cpaman, soul_rouge, anurag.baruah33
+Rating: 153.7723076571533
+
+Team: redhatcoders
+Institute: IIT - Delhi
+Members: singhcoder694, pvr04, fakkiirrr
+Rating: 152.80373831775702
+
+Team: Xyz
+Institute: IIT - Patna
+Members: YashG78
+Rating: 152.68817204301075
+
+Team: malloc()
+Institute: IIIT - Hyderabad
+Members: Kritim_04, jahnavi_vv, vivekhruday05
+Rating: 152.2761490553918
+
+Team: Random_Coders
+Institute: IIT - Roorkee
+Members: m_gupta, swati_singh_, Manyana_72
+Rating: 148.59813084112147
+
+Team: 2 idiots
+Institute: IIT - Roorkee
+Members: Suryansh_Bisht, Lakshit040
+Rating: 148.4593837535014
+
+Team: Sup¢Dame
+Institute: IIT - Guwahati
+Members: DAME_D, Mr_Sup
+Rating: 145.65826330532212
+
+Team: coderizz
+Institute: IIT - Kanpur
+Members: animeshmadaan09, aujasvit_datta, npqr
+Rating: 144.39252336448598
+
+Team: enigmas
+Institute: IIT - BHU
+Members: amy_004, rashi_r, _Saumya_
+Rating: 141.96476856400767
+
+Team: manic_sampler
+Institute: IIIT - Hyderabad
+Members: saarthak5, HarshitGoyal07, the_ronnie
+Rating: 141.58878504672896
+
+Team: OneZero
+Institute: IIT - Roorkee
+Members: bhsh200, pree111, niveee
+Rating: 140.18691588785046
+
+Team: Flaming Candy
+Institute: IIT - Madras
+Members: Sasuke0, Poseidon2125, Ga_Ga_n
+Rating: 139.29832278408702
+
+Team: code warriors
+Institute: IIT - Roorkee
+Members: krishsingla06, aastik231205, barot_mh
+Rating: 139.2548596069736
+
+Team: AcrobateElites
+Institute: IIT - Guwahati
+Members: p.nayaniitg, nidhi_2309
+Rating: 138.957313001597
+
+Team: Followpassion
+Institute: IIT - Madras
+Members: Ajaykrishnask
+Rating: 138.78504672897196
+
+Team: Code Surgeons
+Institute: LNMIIT
+Members: pulkit04, Munot_31, YatharthPatil_14
+Rating: 138.65546218487395
+
+Team: 418819
+Institute: IIIT - Delhi
+Members: bomamba, Nav.rtd, Ganeev18
+Rating: 136.6292074271701
+
+Team: Decovators
+Institute: IIT - Kanpur
+Members: Subhadip3042004, Pratyushg07, rishikeshsahil
+Rating: 135.98130841121497
+
+Team: Heisenberg
+Institute: IIT - Guwahati
+Members: rishav4552, mayankarya185, anand1212
+Rating: 135.98130841121497
+
+Team: DebuGhouls
+Institute: IIT - Delhi
+Members: goyaldinu321, aarcee_17, Abry
+Rating: 135.28932355338222
+
+Team: code_choders
+Institute: IIT - Kanpur
+Members: shivansh_1720, hardik1408, tamoghnak099
+Rating: 134.81181464809188
+
+Team: html_is_not_programming
+Institute: IIT - Madras
+Members: polka_rat, h3lic0pt3r, sparshg_02
+Rating: 132.4165263908883
+
+Team: coding_wizards
+Institute: IIT - Delhi
+Members: coolone, itsme_ankit, Piyushiitd
+Rating: 131.77570093457945
+
+Team: Cyberpunk22
+Institute: IIT - Kanpur
+Members: Saagar2005, jiyanshudhaka2003, prajapatirahul202122
+Rating: 130.08985266600146
+
+Team: team_17
+Institute: IIT - Roorkee
+Members: pramod_17, santhosh_vn, Rahas
+Rating: 126.31351446046507
+
+Team: Lords of the Strings
+Institute: BITS Pilani
+Members: manofsteel007, targ04, Adhvaithks
+Rating: 124.76635514018692
+
+Team: Blitz
+Institute: IIT - Madras
+Members: Anish.007, shiv0taken, vansh.coder
+Rating: 124.64985994397759
+
+Team: Team Spectaculars
+Institute: LNMIIT
+Members: De1m0S, prayush814, cyeBro
+Rating: 123.24929971988796
+
+Team: The_Holy_Trifecta
+Institute: IIT - Madras
+Members: AnshumanJ, Deku_27, alevone
+Rating: 123.06438467807659
+
+Team: dhokla
+Institute: IIT - Guwahati
+Members: smd00, sirik
+Rating: 121.43439282803587
+
+Team: Arkom
+Institute: IIT - Delhi
+Members: ARKOM
+Rating: 120.08281573498965
+
+Team: Trinary Techies
+Institute: IIT - Kanpur
+Members: Soham05, banger9194, nikbangaram
+Rating: 119.15887850467288
+
+Team: Tech_Army
+Institute: IIT - Madras
+Members: nvr_cs22b027, lohithreddy712, Tropos_Infinitum
+Rating: 114.91442542787286
+
+Team: TimeLimitExceeded
+Institute: IIT - Roorkee
+Members: pragyanhacker1, ProgrammerKituu, vastuag
+Rating: 113.55140186915888
+
+Team: GAD
+Institute: IIIT - Hyderabad
+Members: debangan.mishra40, gauravbehera, ameykaran
+Rating: 112.46943765281173
+
+Team: Team Trio
+Institute: IIIT - Hyderabad
+Members: arymahajan12, Yash_28, RAJ_A
+Rating: 110.91135720791983
+
+Team: GroovySyntaxGlitch
+Institute: IIT - BHU
+Members: gvd_112358, Chirag12346, lahoax
+Rating: 107.94392523364486
+
+Team: BITS Pilani: Big Juicers
+Institute: BITS Pilani
+Members: CoolDaBest, NameDinosaur, 2ashishsam
+Rating: 106.73514155793708
+
+Team: flames
+Institute: IIT - Delhi
+Members: Sethi_Mansi, khush_geek
+Rating: 106.54205607476636
+
+Team: Expecto_Patronum
+Institute: IIT - Guwahati
+Members: adroitanuj, agam_283, aayush_369
+Rating: 106.38987177734917
+
+Team: BGGB
+Institute: IIT - Delhi
+Members: beejee
+Rating: 104.45064833894885
+
+Team: Crimson_Cipher
+Institute: IIT - Madras
+Members: vicious_vile
+Rating: 104.31947840260797
+
+Team: Tiny Coders
+Institute: IIT - Patna
+Members: suruchicod, Nidhi_mishra, black1code
+Rating: 103.73831775700934
+
+Team: TeenLog
+Institute: BITS Pilani
+Members: somebodyyouknow, DabSeaLucifer, armaangupta912
+Rating: 102.33644859813084
+
+Team: Access_Denied
+Institute: IIT - Guwahati
+Members: Himank_Bohara, gagandeep.singh, Mysteriux
+Rating: 101.87449062754686
+
+Team: codeSprint_X
+Institute: IIT - Roorkee
+Members: alphaCode_X, snehayadav374
+Rating: 101.51954847702396
+
+Team: Falcons
+Institute: IIT - BHU
+Members: PriyanshuT04, pussy_69, rjnpratik
+Rating: 100.93457943925235
+
+Team: The Code of Duty
+Institute: IIT - Roorkee
+Members: RaunakKumar1, Anuj6174, Ded_beast.
+Rating: 99.53271028037383
+
+Team: codecrushers
+Institute: BITS Pilani
+Members: Maanas23, namang01
+Rating: 98.0392156862745
+
+Team: Beam Tahnchod
+Institute: IIT - BHU
+Members: priyanshgupta3002, ParthK.
+Rating: 96.9845150774246
+
+Team: Sheetla
+Institute: LNMIIT
+Members: ohhpeejoshi, ayj05, kuma_the_panda
+Rating: 96.63865546218487
+
+Team: Proxy_laga_de
+Institute: IIT - Patna
+Members: SmugglerZ
+Rating: 95.35452322738385
+
+Team: coderbeyondmind
+Institute: IIT - Patna
+Members: D1zzYzz, 2004_rupesh, PrashKumar
+Rating: 95.32710280373831
+
+Team: Dermi Cool
+Institute: IIT - Guwahati
+Members: divyam_jain_04, Darshan_Ptidar, lohit5951
+Rating: 94.94926851036688
+
+Team: Celestia
+Institute: IIT - Patna
+Members: Jitu01, harshitasingh_12, RituparanSingh
+Rating: 93.72453137734311
+
+Team: 971PM
+Institute: IIT - Madras
+Members: randomiser_, Pranav_2509, soham_warde
+Rating: 91.27954360228198
+
+Team: BinaryBYTES
+Institute: IIT - Madras
+Members: shreyat5541, RiddhiA, vaishnavirajesh05
+Rating: 90.4645476772616
+
+Team: StupidPandas
+Institute: IIIT - Hyderabad
+Members: s0han_24, ThePurpleJedi, kaks_30
+Rating: 90.4065288331479
+
+Team: CodeCrafters
+Institute: BITS Pilani
+Members: nishantpradhan100, samarth_kothari2005, romit_jain
+Rating: 90.24023337827236
+
+Team: plus_one
+Institute: IIT - Madras
+Members: clashonkish, cs22b032iitm
+Rating: 88.08773012209704
+
+Team: Baba_Bulldozer
+Institute: IIT - Guwahati
+Members: mayankIITG, SarthakCP21, y.prem
+Rating: 86.66929445726602
+
+Team: Randiye
+Institute: IIT - Roorkee
+Members: j2k, -VIBE
+Rating: 85.175983436853
+
+Team: Binary Brains
+Institute: IIT - Patna
+Members: Sn2005, Saumya15, Ranj_01
+Rating: 84.19307786638636
+
+Team: VariedVirtuosos
+Institute: IIT - Roorkee
+Members: V-B, Strawhatluffy500, IT_s_OVER_9000
+Rating: 83.12958435207824
+
+Team: Noobie
+Institute: IIIT - Hyderabad
+Members: Samarth_23, KP_KP, ashurudra09
+Rating: 80.65400073072706
+
+Team: DeadOnArrival
+Institute: IIT - Madras
+Members: bijo11235, rushill
+Rating: 77.10280373831776
+
+Team: zer0
+Institute: IIT - Guwahati
+Members: it_all_starts, pranavg9927, VedaVarxha
+Rating: 75.94467167851076
+
+Team: Makkhann
+Institute: IIT - Patna
+Members: kumarnalinsingh, senmayank7375, rajharsh30
+Rating: 75.89592425869645
+
+Team: Black_Clover
+Institute: IIT - Patna
+Members: Hour_Knee, Anj_kri, akash70
+Rating: 75.53764976502221
+
+Team: Anant Bansal
+Institute: IIT - Guwahati
+Members: arush207, kgBolt, vidyasagar.g
+Rating: 72.53463732681337
+
+Team: kandam vazhi
+Institute: IIT - Madras
+Members: kingpin119, Non-origination
+Rating: 71.71964140179298
+
+Team: Team Shaktimaan
+Institute: IIT - Madras
+Members: keyur18, zyxwv, elomenopi
+Rating: 69.99405890821014
+
+Team: I C U Semicolons
+Institute: IIT - Roorkee
+Members: whizzion957, ayushka, amaitreya20
+Rating: 68.52953696716395
+
+Team: pewpew
+Institute: IIT - Delhi
+Members: vmk2335, saibruhadeeswar, _thebat
+Rating: 66.98385726423109
+
+Team: Excelsior
+Institute: IIIT - Hyderabad
+Members: Chinmay_2004, aaditya.narain, aniket27gupta03
+Rating: 66.70810133344291
+
+Team: GPS
+Institute: IIIT - Hyderabad
+Members: sujal_keshri, gopi., PrathamOP20
+Rating: 65.27054321250132
+
+Team: TechTrio
+Institute: IIT - Guwahati
+Members: lostyoursoul, aj_2030, ay0817586
+Rating: 65.19967400163
+
+Team: Bleached Hair
+Institute: IIT - Kanpur
+Members: 84CK83NCHER, divitshah15, Ayush_018
+Rating: 63.569682151589234
+
+Team: William_frankenstien
+Institute: IIT - Guwahati
+Members: Chankya_kautilya, VISHVJEET
+Rating: 62.754686226568865
+
+Team: Pro Skill Issue
+Institute: IIT - Delhi
+Members: lakshyamah_jan, ishika18, MonalS2004
+Rating: 61.93969030154849
+
+Team: codekal
+Institute: IIIT - Hyderabad
+Members: Kriti19, larissa.lavanya, Anagha_Goni
+Rating: 58.67970660146699
+
+Team: spydarr
+Institute: IIT - Roorkee
+Members: vraj_tvs
+Rating: 58.558314100952856
+
+Team: roomcode
+Institute: IIT - KGP
+Members: saketkumarsingh2012
+Rating: 57.86471067644662
+
+Team: rkp.jpg
+Institute: IIT - Patna
+Members: pkjha0102, prakhar_gupta_ji, Rahul21019
+Rating: 55.49734156091123
+
+Team: Byte_me
+Institute: IIT - KGP
+Members: Ryukendo01, temp17, lee_go
+Rating: 55.419722901385484
+
+Team: 1337_C0d3rs
+Institute: IIT - Roorkee
+Members: HumorousWanderer, Onslaughtz, G-Coder
+Rating: 54.67056138239558
+
+Team: AL-GaE
+Institute: IIT - KGP
+Members: gourav_pramanik, naruxor, MambaBlack29
+Rating: 54.604726976365114
+
+Team: VSke14
+Institute: IIT - Kanpur
+Members: PSR22, Nakshatra07, pm020202pm
+Rating: 54.42069563845729
+
+Team: RAM G
+Institute: IIT - Roorkee
+Members: rithwikiitr25, aryanartist30, manojkumarsial2002
+Rating: 53.78973105134474
+
+Team: Error_404
+Institute: IIT - Guwahati
+Members: mayank246, pranavkochar1, ravipatel
+Rating: 52.159739201303985
+
+Team: CodeTitans
+Institute: IIT - Roorkee
+Members: FreakyDivi, Saga69, Phantom_601
+Rating: 49.06542056074766
+
+Team: aqya
+Institute: IIIT - Hyderabad
+Members: _Matoshri_
+Rating: 47.26976365118174
+
+Team: seven
+Institute: IIT - Guwahati
+Members: sharvil_cpp, cosmic.noise29, sm2004
+Rating: 46.96261682242991
+
+Team: Newkdem
+Institute: IIT - KGP
+Members: sahan11_, vasuwugarg, torquerxf
+Rating: 46.46771625954955
+
+Team: rendezvous
+Institute: IIT - Patna
+Members: enerneo, Atul167
+Rating: 46.26168224299065
+
+Team: Teamforce
+Institute: IIT - Kanpur
+Members: Ohayo, sofiyaan, Navya1812
+Rating: 44.859813084112155
+
+Team: dank_Pirates
+Institute: IIT - Guwahati
+Members: aruneshadarsh, Satyanshu111
+Rating: 44.1588785046729
+
+Team: Code_compilers
+Institute: IIT - Delhi
+Members: Srinath1092, nikhilzawar2004, vatsalsejpal308
+Rating: 42.75700934579439
+
+Team: KKoding
+Institute: BITS Pilani
+Members: kkapoor
+Rating: 42.379788101059496
+
+Team: tharki_trio
+Institute: IIT - Guwahati
+Members: Random314, toshit3q34, hollowshade
+Rating: 42.31524528015252
+
+Team: Team Debugger
+Institute: IIT - Madras
+Members: Sujal_S1, Aj14022003, KAz31024
+Rating: 42.05607476635514
+
+Team: WeAreRushinB
+Institute: IIT - Patna
+Members: yshivam544, shivamss, yashajitsaria
+Rating: 41.35514018691589
+
+Team: Redhats
+Institute: IIT - Kanpur
+Members: FirySnehasis, rohanram, Gautam_arora
+Rating: 39.11980440097799
+
+Team: EEE_MUSKETEERS
+Institute: IIT - Guwahati
+Members: Munish_Bhatia, BisonV_07, Priyanshume18
+Rating: 37.489812550937245
+
+Team: ARP
+Institute: IIT - Roorkee
+Members: Singh_Ram, Acid12, pm_12
+Rating: 37.14953271028037
+
+Team: AT73
+Institute: IIT - Madras
+Members: terriblet3, MrKaushik7
+Rating: 36.44859813084112
+
+Team: pikacode
+Institute: IIIT - Hyderabad
+Members: shivmodi18, PradhyumnaPalore, harshita_iiit
+Rating: 35.81202537912544
+
+Team: dumdums
+Institute: IIT - Guwahati
+Members: brashsunny110, ankitpatel30122001, kvrmoorthi.93
+Rating: 35.74766355140187
+
+Team: Debugging Dynamos
+Institute: IIT - Kanpur
+Members: kunalthakur31102003, AdityaGupta55
+Rating: 35.176404725453004
+
+Team: Beyond Infinity
+Institute: IIIT - Hyderabad
+Members: Hiten_17, Gov1507, Kushal_Mangla
+Rating: 34.73848030611164
+
+Team: Krusiti Lovers
+Institute: IIT - Delhi
+Members: frozenblade, koyoluk, Hussy_Chuds
+Rating: 34.345794392523366
+
+Team: itslit
+Institute: IIIT - Delhi
+Members: harsh99429, Chawan_srujeeth
+Rating: 33.41483292583537
+
+Team: superpeople
+Institute: IIT - BHU
+Members: REDDY1119
+Rating: 33.12629399585921
+
+Team: CodeCrushers
+Institute: IIIT - Hyderabad
+Members: jainil24_IIITH, Tathya_, Poseidon070
+Rating: 32.94392523364486
+
+Team: Coders
+Institute: IIT - BBS
+Members: Divya_Kumar, Ayush_Gupta_1108, pushg87
+Rating: 32.599837000815
+
+Team: Seahawks
+Institute: IIT - BHU
+Members: g_dev, samarthj03, Ritikthakur2712
+Rating: 32.242990654205606
+
+Team: Epsilon
+Institute: IIT - Kanpur
+Members: abhi17jan2004, atharv2212, nameless_wonder
+Rating: 30.15484922575387
+
+Team: DARK KNIGHTS
+Institute: IIT - Guwahati
+Members: MjStar, priyanshmathur02, marejarahul9
+Rating: 30.140186915887853
+
+Team: SherlockWatson
+Institute: IIT - Delhi
+Members: sherlock_10, Pratyyush, amaanali_123
+Rating: 29.439252336448597
+
+Team: dank_team
+Institute: IIT - Delhi
+Members: sauravpatel027, mortyKing
+Rating: 29.339853300733495
+
+Team: BabyYodaTeam
+Institute: IIT - Kanpur
+Members: Anisha08, ANNA106, shreyaashree.17
+Rating: 28.985507246376812
+
+Team: BIRMINGHAM
+Institute: IIT - Madras
+Members: alpha010, super-beast
+Rating: 28.524857375713122
+
+Team: Stdio Samurais
+Institute: IIIT - Hyderabad
+Members: bkushkushal439, SANS_Surya, _AryaM_
+Rating: 26.91511387163561
+
+Team: Bakarwadi Boys
+Institute: IIT - Madras
+Members: Itachi_Programmer, ArvindIyer, kaladosa737
+Rating: 26.260196970043186
+
+Team: OnlyFriends
+Institute: IIT - Madras
+Members: naik_here, kingslayer_7
+Rating: 26.079869600651993
+
+Team: ProCoders
+Institute: IIT - Kanpur
+Members: Harshit.sharma1105, AR20105, ayushjln499
+Rating: 25.934579439252335
+
+Team: code_iitbhu23
+Institute: IIT - BHU
+Members: parthido, shayon.dasgupta, sairaj2k05
+Rating: 25.83734834852267
+
+Team: Bit Wizards
+Institute: IIT - Kanpur
+Members: Srujan_B, shlokjain0177, asthana.iitk
+Rating: 25.26487367563162
+
+Team: Bit Flippers
+Institute: IIT - Patna
+Members: srnr_nishant03, Ash_28
+Rating: 25.233644859813086
+
+Team: golu_bhalu
+Institute: IIT - Guwahati
+Members: u_d_ash_, Udbhav_514, APassingFool
+Rating: 24.53271028037383
+
+Team: Noobs-07
+Institute: IIT - Delhi
+Members: Anuj_Naval, Shantanuraje, HarshitGautam
+Rating: 23.978017960377485
+
+Team: frenzy
+Institute: IIT - Madras
+Members: rostoki
+Rating: 23.83177570093458
+
+Team: NooB_CoDeRs
+Institute: IIT - Patna
+Members: rabi_kumar_shaw, LuqmanMotiwala, not_aryan
+Rating: 22.596380884918005
+
+Team: toxic_cse
+Institute: IIT - Guwahati
+Members: mahek.6245, mahua2004, anushkagupta1331
+Rating: 22.429906542056077
+
+Team: Compilation_error
+Institute: IIT - BHU
+Members: Bool_redatcf, _naveen1729, Zatch07
+Rating: 21.72897196261682
+
+Team: Madras Monkeys
+Institute: IIT - Madras
+Members: IRON_CAT141, Vatsal__Patwari, Tanish0909
+Rating: 21.59739201303993
+
+Team: The Newbabies
+Institute: IIT - KGP
+Members: raaz69, sanjeevani.patra
+Rating: 21.02803738317757
+
+Team: Codebreaker
+Institute: IIT - Kanpur
+Members: khushiagarwal257, Soumyagupta5643, Vinny1104
+Rating: 20.374898125509368
+
+Team: SSKP
+Institute: IIT - BBS
+Members: Meldig23, SSD_34
+Rating: 20.327102803738317
+
+Team: Vigour
+Institute: IIT - Madras
+Members: learnerom, harshad03, Kshitij_Indorkar
+Rating: 19.967400162999184
+
+Team: Logic Lords
+Institute: IIT - Madras
+Members: Keerthiharan_2004, sri642005, ch22b025
+Rating: 19.940741417788235
+
+Team: reachHeights
+Institute: IIT - Patna
+Members: Sruti_sahini
+Rating: 19.152404237978807
+
+Team: Delta
+Institute: IIT - Roorkee
+Members: Raj1046, Supr_01, SIMILE
+Rating: 18.925233644859812
+
+Team: TrailBlazers
+Institute: IIT - Roorkee
+Members: spongebobsquareroot, Ingenieur, Ujjwalkool
+Rating: 18.283773456522127
+
+Team: NPS
+Institute: IIT - Roorkee
+Members: niharika90, Gryffindor-Shadow-SD, pranjal_712
+Rating: 18.22429906542056
+
+Team: IdeationX
+Institute: IIT - Guwahati
+Members: Monster_56, Lv123
+Rating: 17.929910350448246
+
+Team: TechNyx
+Institute: IIT - Kanpur
+Members: mani_pranshu, im_ayush, abhijeet29102004
+Rating: 17.523364485981308
+
+Team: Argonauts231006
+Institute: IIIT - Hyderabad
+Members: Aryan_234, iamarnav008, prakhar_1590
+Rating: 17.52241238793806
+
+Team: TechTitans
+Institute: IIT - Kanpur
+Members: itachiutchia, devanshv17, ManasDhakad
+Rating: 16.822429906542055
+
+Team: CodeBean
+Institute: IIIT - Hyderabad
+Members: sriramojueshwar15, Atharva.naik, sairavi2212
+Rating: 16.563146997929604
+
+Team: atm iiit
+Institute: IIIT - Hyderabad
+Members: amiabuch, Tejasvini_R, manitroy
+Rating: 13.854930725346371
+
+Team: Mayapanchi
+Institute: IIIT - Hyderabad
+Members: Laksh_J, mruds, Ronit5
+Rating: 11.409942950285247
+
+Team: 4_Byte_Wiz
+Institute: IIT - KGP
+Members: ar747906, punkitkumar, Harsh_4361
+Rating: 10.594947025264874
+
+Team: BlasterBachha
+Institute: IIT - Roorkee
+Members: RajdeepA
+Rating: 9.779951100244498
+
+Team: toxic_community
+Institute: IIT - BHU
+Members: inevitable6393, ajay_ita, laxman82
+Rating: 4.074979625101875
+
+Team: Champions
+Institute: IIT - Kanpur
+Members: codingp110, ritikak22, anshikam
+Rating: 1.6299918500407495
+
+Team: Fk_semicolon
+Institute: IIT - Madras
+Members: _The_Coding_Son_, trp347, Pythonnoob
+Rating: 0.0
+
+Team: CtrlAltDefeat
+Institute: IIT - Roorkee
+Members: Pradyumn1908, UtkarshKumar29, Vishesh211
+Rating: 0.0
+
+Team: EnigmaEngineers
+Institute: IIT - Guwahati
+Members: yosinghal070, Vineet0103, Vaidurjya
+Rating: 0.0
+
+Team: Magadh_Boys
+Institute: IIT - Patna
+Members: shashipatna2004, amar_iitp, nitishkumar23082003
+Rating: 0.0
+
+Team: DANGERWIZARD
+Institute: IIT - Kanpur
+Members: Dangerwizard
+Rating: 0.0
+
+Team: Chetram Meena
+Institute: IIT - Delhi
+Members: meenachetram635
+Rating: 0.0
+
+Team: Quantum_Coders
+Institute: IIT - Madras
+Members: the_riddler, gokulnotre5
+Rating: 0.0
+
+Team: Bit Mavericks
+Institute: IIT - BBS
+Members: aadi8sharma, rhythmp619, abhi1974vns
+Rating: 0.0
+
+Team: DeaTH NoTE
+Institute: IIT - Kanpur
+Members: nehapanuganti27, jyotidav02, anamika_kumari
+Rating: 0.0
+
+Team: champs24
+Institute: BITS Pilani
+Members: vyoma1282, viraj21, Wrench333
+Rating: 0.0
+
+Team: GimmeQ
+Institute: IIIT - Hyderabad
+Members: anirudhsankar23
+Rating: 0.0
+
+Team: CodingEnthusiasts
+Institute: IIT - Roorkee
+Members: Apurv_M, KrishSingla14
+Rating: 0.0
+
+Team: SANTORYU
+Institute: IIT - Roorkee
+Members: sn0rl4x, busybrowsensei1, themanviv007
+Rating: 0.0
+
+Team: PS04
+Institute: IIT - Guwahati
+Members: Xero_1, Shreeya1904, Mrinal_
+Rating: 0.0
+
+Team: L0NE_C0DER
+Institute: IIT - Roorkee
+Members: CR4CK_HE4D
+Rating: 0.0
+
+Team: Technodudes22
+Institute: IIT - Kanpur
+Members: shubhnahar77, dilveergur203, ayangupta963
+Rating: 0.0
+
+Team: cook the code
+Institute: IIT - Guwahati
+Members: gayathrip, parallax_7
+Rating: 0.0
+
+Team: Trauma
+Institute: IIT - Guwahati
+Members: Sierra2604, Mukul457, arushiaro
+Rating: 0.0
+
+Team: Jaldi Waha Se Hato!
+Institute: LNMIIT
+Members: RahulHarpal, MohitAgrawal32, flicktoss
+Rating: 0.0
+
+Team: Cyberpunk
+Institute: IIT - Madras
+Members: Vignesh_0, navaneethpaturi
+Rating: 0.0
+
+Team: Kudurs
+Institute: IIT - Patna
+Members: Saumya101203, aphutela, AriXcoder
+Rating: 0.0
+
+Team: SoloQuest
+Institute: Unofficial (Graduates)
+Members: Revanth27
+Rating: 0.0
+
+Team: Wapers
+Institute: IIT - BHU
+Members: naitik_agrawal, Deeznutz1567
+Rating: 0.0
+
+Team: Code Smasher
+Institute: IIIT - Hyderabad
+Members: Bhaskar_Bhatt, Daffy1930, aniketbansal2809
+Rating: 0.0
+
+Team: Recursive Rebels
+Institute: LNMIIT
+Members: vigneshwar472, SHARANTEJAREDDY
+Rating: 0.0
+
+Team: ENcoders
+Institute: LNMIIT
+Members: noobcoder_kala, Anuragcoder1, Samarthgarg8099
+Rating: 0.0
+
+Team: Komders
+Institute: LNMIIT
+Members: AUSM1526, Krutish_Raval
+Rating: 0.0
+
+Team: Sliding_Widows
+Institute: LNMIIT
+Members: Shivang_Mewada24, Siddharth-Jiyani, harsh_joshi004
+Rating: 0.0
+
+Team: Actual_Girl Fanclub
+Institute: IIT - KGP
+Members: AceKnight7
+Rating: 0.0
+
+Team: 2002
+Institute: IIT - Madras
+Members: TIEfighter, Rishi2611
+Rating: 0.0
+
+Team: DostSaanpNikle
+Institute: IIT - Roorkee
+Members: shivanshkasaudhancoder1, GVJNJ, nishant1520
+Rating: 0.0
+
+Team: NOT_Interested
+Institute: LNMIIT
+Members: Bye_Luna, VRM20, 22ucs191
+Rating: 0.0
+
+Team: ShruthiK
+Institute: IIT - Madras
+Members: ShruthiK
+Rating: 0.0
+
+Team: Enigma
+Institute: IIT - Madras
+Members: MRuhaib, guyfawkes2124, user47384
+Rating: 0.0
+
+Team: interested
+Institute: LNMIIT
+Members: RizTrey, White_Knight_2807, priyanshu.07c
+Rating: 0.0
+
+Team: hope
+Institute: IIT - BHU
+Members: kaushtubh.singh, dhamijasurvesh, rpratik27
+Rating: 0.0
+
+Team: CodeBreakers
+Institute: LNMIIT
+Members: ANSH_MAHESHWARI, shreyanshdangi464
+Rating: 0.0
+
+Team: codehackers
+Institute: VNRVJIET
+Members: Mdsahil_49
+Rating: 0.0
+
